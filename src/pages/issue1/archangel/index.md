@@ -45,19 +45,3 @@ you're listening to Marketplace on WNYC all coming up next day 2
  this is a Pia
  WNYC supporters include CBS films presenting at eternity's gate from the natural world around him in Select theaters this Friday
  you're listening to things considered series that looks behind and sickle cell on the TED Radio Hour in unexpected places it's our Wednesday evening WNYC
-
-
-query MyQuery {
-  allMarkdownRemark {
-    edges {
-      node {
-        frontmatter {
-          title
-          image {
-            publicURL
-          }
-        }
-      }
-    }
-  }
-}

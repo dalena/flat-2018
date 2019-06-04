@@ -2,6 +2,7 @@
   font-family: Rubik;
   src: url("/font/Rubik/Rubik-Regular.ttf");
 }
+
 @font-face {
   font-family: CormorantGaramond;
   src: url("/font/CormorantGaramond/CormorantGaramond-Regular.otf");
@@ -13,6 +14,7 @@ body {
   background: #fff;
   font-family: 'Rubik';
 }
+
 p {
   font-size: 26px;
   line-height: 40px;
@@ -20,6 +22,7 @@ p {
   margin-top: 60px;
   margin-bottom: 60px;
 }
+
 h1 {
   font-size: 70px;
   font-weight: normal;
@@ -49,6 +52,7 @@ header {
   font-family: 'Rubik';
   padding-bottom: 2vh;
 }
+
 .nav {
   text-align: right;
 
@@ -86,11 +90,11 @@ header {
   visibility: visible;
 }
 
-.flexbox-slide a{
+.flexbox-slide a {
   cursor: pointer;
 }
 
-.flexbox-slider .flexbox-slide:after{
+.flexbox-slider .flexbox-slide:after {
   position: absolute;
   top: 0;
   left: 0;
@@ -155,7 +159,14 @@ header {
   flex-shrink: 0;
 }
 
-.flexbox-slider:hover .flexbox-slide-active  {
+.flexbox-slide-active .text-block {
+  visibility: visible !important;
+  opacity: 1 !important;
+  top: 13vh;
+
+}
+
+.flexbox-slider:hover .flexbox-slide-active {
   width: 0%;
 }
 

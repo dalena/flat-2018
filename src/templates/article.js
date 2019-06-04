@@ -17,7 +17,7 @@ export default function Article({ data }) {
       <Helmet title={`${post.frontmatter.title}`} />
       <div className="article">
         <div class="article-img">
-          <img src={post.frontmatter.image.publicURL}></img>
+          {/* <img src={post.frontmatter.image.publicURL}></img> */}
         </div>
         <h2>{post.frontmatter.title}</h2>
         <h3>{post.frontmatter.author}</h3>
