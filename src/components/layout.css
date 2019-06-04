@@ -22,14 +22,19 @@ p {
 }
 h1 {
   font-size: 70px;
+  font-weight: normal;
 }
 
 h2 {
   font-size: 42px;
+  font-weight: normal;
+
 }
 
 h3 {
   font-size: 32px;
+  font-weight: normal;
+
 }
 
 #wrapper {
@@ -158,4 +163,9 @@ header {
 
 .content {
   padding-top: 3vh;
+}
+
+.article-img img {
+  max-width: 600px;
+  height: auto;
 }
