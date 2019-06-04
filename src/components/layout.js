@@ -36,14 +36,12 @@ const Layout = ({path, children }) => (
     `}
     render={data => (
       <>
-        <body>
           <div id="wrapper">
-            <Header siteTitle={data.site.siteMetadata.title} />
+            <Header siteTitle={data.site.siteMetadata.title}/>
             <IssueNav path={path}></IssueNav>
             <main>{children}</main>
             <Footer />
           </div>
-        </body>
       </>
     )}
   />
