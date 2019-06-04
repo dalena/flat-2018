@@ -1,11 +1,11 @@
 @font-face {
   font-family: Rubik;
-  src: url("/font/Rubik/Rubik-Regular.ttf");
+  src: url("../fonts/Rubik-Regular.ttf");
 }
 
 @font-face {
   font-family: CormorantGaramond;
-  src: url("/font/CormorantGaramond/CormorantGaramond-Regular.otf");
+  src: url("../fonts/CormorantGaramond-Regular.otf");
 }
 
 body {
@@ -16,8 +16,8 @@ body {
 }
 
 p {
-  font-size: 26px;
-  line-height: 40px;
+  font-size: 32px;
+  line-height: 48px;
   font-family: 'CormorantGaramond';
   margin-top: 60px;
   margin-bottom: 60px;
@@ -39,6 +39,13 @@ h3 {
   font-weight: normal;
 
 }
+
+h4 {
+  font-size: 32px;
+  font-weight: normal;
+
+}
+
 
 #wrapper {
   margin: 4vw 10vw;
@@ -69,10 +76,10 @@ header {
   line-height: 52px;
 }
 
-.mainBody {
+.issue-nav {
   height: 52vh;
   display: flex;
-  /* border: solid .45vh #000; */
+  border: solid .45vh #000;
 }
 
 
@@ -123,27 +130,28 @@ header {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   z-index: 1;
-  /* -webkit-filter: brightness(150%) saturate(270%) contrast(300%) invert(120%) blur(.5px) saturate(60%) contrast(130%) saturate(60%);
-  filter: brightness(150%) saturate(270%) contrast(300%) invert(120%) blur(.5px) saturate(60%) contrast(130%) saturate(60%); */
+  -webkit-filter: brightness(150%) saturate(270%) contrast(300%) invert(120%) blur(.5px) saturate(60%) contrast(130%) saturate(60%);
+  filter: brightness(150%) saturate(270%) contrast(300%) invert(120%) blur(.5px) saturate(60%) contrast(130%) saturate(60%);
 }
 
 .flexbox-slider .flexbox-slide:hover img {
-  /* transition-property: all;
+  transition-property: all;
   transition-duration: 0.6s;
   transition-timing-function: linear;
   transition-delay: 0.06s;
   -webkit-filter: saturate(100%)invert(0%);
-  filter: saturate(100%) invert(0%); */
+  filter: saturate(100%) invert(0%);
 }
 
 .flexbox-slider .flexbox-slide .text-block {
   position: absolute;
   /* bottom: 0px; */
-  max-width: 900px;
-  padding: 35px;
+  /* max-width: 900px; */
+  width: 25vw;
+  height: auto;
+  padding: 2vw;
   border-radius: 0px;
-  /* background-color: rgba(0, 0, 0, 1); */
-  background-color: blue;
+  background-color: rgba(0, 0, 0, 1);
   color: #fff;
   z-index: 4;
   visibility: hidden;
@@ -151,7 +159,7 @@ header {
 }
 
 .flexbox-slider .flexbox-slide .text-block h3 {
-  font-size: 20px;
+  font-size: 42px;
   font-weight: 700;
 }
 
@@ -199,3 +207,10 @@ header {
   height: auto;
 }
 
+main{
+  padding-top: 10vh;
+}
+
+footer {
+  padding-top: 5vh;
+}

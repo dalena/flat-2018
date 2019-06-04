@@ -29,7 +29,7 @@ const IssueNav = (props) => (
         }
       `}
         render={data => (
-            <div class="mainBody">
+            <div class="issue-nav">
                 <div class="flexbox-slider flexbox-slider-1">
                     {data.allMarkdownRemark.edges.map(({ node }, i) => {
                         if (node.frontmatter.image != null) {
