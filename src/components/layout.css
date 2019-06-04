@@ -83,11 +83,14 @@ header {
   height: 100%;
   position: relative;
   overflow: hidden;
-  cursor: pointer;
   visibility: visible;
 }
 
-.flexbox-slider .flexbox-slide:after {
+.flexbox-slide a{
+  cursor: pointer;
+}
+
+.flexbox-slider .flexbox-slide:after{
   position: absolute;
   top: 0;
   left: 0;
@@ -145,6 +148,15 @@ header {
 .flexbox-slider:hover .flexbox-slide:hover {
   flex-shrink: 0;
   width: 90%;
+}
+
+.flexbox-slider .flexbox-slide-active {
+  width: 90%;
+  flex-shrink: 0;
+}
+
+.flexbox-slider:hover .flexbox-slide-active  {
+  width: 0%;
 }
 
 .flexbox-slider.flexbox-slider-1 .flexbox-slide .text-block {

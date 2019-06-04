@@ -6,12 +6,14 @@ import SEO from "../components/seo"
 import Img from "gatsby-image"
 
 import "../components/layout.css"
+import IssueNav from "../components/issuenav";
 
 export default function Article({ data }) {
   const { markdownRemark: post } = data
   return (
     <Layout>
       <SEO title="Home" />
+      <IssueNav path={post.frontmatter.path}></IssueNav>
       <Helmet title={`${post.frontmatter.title}`} />
       <div className="article">
         <div class="article-img">
