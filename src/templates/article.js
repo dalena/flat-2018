@@ -11,14 +11,13 @@ import IssueNav from "../components/issuenav";
 export default function Article({ data }) {
   const { markdownRemark: post } = data
   return (
-    <Layout>
+    <Layout path={post.frontmatter.path}>
       <SEO title="Home" />
-      <IssueNav path={post.frontmatter.path}></IssueNav>
       <Helmet title={`${post.frontmatter.title}`} />
       <div className="article">
-        <div class="article-img">
-          {/* <img src={post.frontmatter.image.publicURL}></img> */}
-        </div>
+        {/* <div class="article-img">
+          <img src={post.frontmatter.image.publicURL}></img>
+        </div> */}
         <h2>{post.frontmatter.title}</h2>
         <h3>{post.frontmatter.author}</h3>
         <h4>{post.frontmatter.date}</h4>

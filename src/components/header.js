@@ -4,15 +4,17 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header>
-        <div class="logo">
-          <h1>JOURNAL X</h1>
-          <h3>Issue 1 : FLAT</h3>
-        </div>
-        <div class="nav">
-          <li>Call For Proposals</li>
-          <li>About</li>
-          <li>People</li>
-        </div>
+    <div class="logo">
+      <Link to="/" class="home-link">
+        <h1 >JOURNAL X</h1>
+      </Link>
+      <h3>Issue 1 : FLAT</h3>
+    </div>
+    <div class="nav">
+      <li>Call For Proposals</li>
+      <li>About</li>
+      <li>People</li>
+    </div>
   </header>
 )
 
