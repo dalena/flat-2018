@@ -3,31 +3,16 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
+  <header>
+        <div class="logo">
+          <h1>JOURNAL X</h1>
+          <h3>Issue 1 : FLAT</h3>
+        </div>
+        <div class="nav">
+          <li>Call For Proposals</li>
+          <li>About</li>
+          <li>People</li>
+        </div>
   </header>
 )
 
