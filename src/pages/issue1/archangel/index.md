@@ -6,6 +6,23 @@ image: "feature.png"
 description: "A short story"
 author: "Cory Archangel"
 
+img1: "artwork/artExample1.png"
+img1txt: "Title of art by Example"
+
+img2: "artwork/artExample1.png"
+img2txt: "Title of art by Example"
+
+img3: "artwork/artExample1.png"
+img3txt: "Title of art by Example"
+
+img4: "artwork/artExample1.png"
+img4txt: "Title of art by Example"
+
+img5: "artwork/artExample1.png"
+img5txt: "Title of art by Example"
+
+img6: "artwork/artExample1.png"
+img6txt: "Title of art by Example"
 ---
 
 Transcription: Marketplace is supported by Drexel University Drexel University I know I use this yesterday but honestly it is just so good is the problem is there is a brexit deal we think from American public media

@@ -3,8 +3,25 @@ title: "THE HUSBAND, THE MAN"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/cartwright"
 image: "feature.png"
-description: "A short story"
 author: "Sarah Blakely Cartwright"
+
+img1: "artwork/artCartwrightFang1.jpg"
+img1txt: "Title of art by Amy Fang"
+
+img2: "artwork/artCartwrightFang2.jpg"
+img2txt: "Title of art by Amy Fang"
+
+img3: "artwork/artCartwrightFang3.jpg"
+img3txt: "Title of art by Amy Fang"
+
+img4: "artwork/artCartwrightFang4.jpg"
+img4txt: "Title of art by Amy Fang"
+
+img5: "artwork/artCartwrightFang5.jpg"
+img5txt: "Title of art by Amy Fang"
+
+img6: "artwork/artCartwrightFang6.jpg"
+img6txt: "Title of art by Amy Fang"
 ---
 
 The girl heard the wife laughing in the other room. The wife came out and found the girl showing the son a bug that had landed on the kitchen counter. The girl could hear the boy paging through his book at the kitchen table. The husband asked the girl what she was always writing in her notebook. When she showed him, it was passages she liked from books, taken down verbatim. He thought it was notes, he was glad it wasn't.
