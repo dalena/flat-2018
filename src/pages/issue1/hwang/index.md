@@ -5,6 +5,24 @@ path: "/flat/hwang"
 image: "feature.jpg"
 description: "A short story"
 author: "Sarah Hwang"
+
+img1: "artwork/artExample1.png"
+img1txt: "Title of art by Example"
+
+img2: "artwork/artExample1.png"
+img2txt: "Title of art by Example"
+
+img3: "artwork/artExample1.png"
+img3txt: "Title of art by Example"
+
+img4: "artwork/artExample1.png"
+img4txt: "Title of art by Example"
+
+img5: "artwork/artExample1.png"
+img5txt: "Title of art by Example"
+
+img6: "artwork/artExample1.png"
+img6txt: "Title of art by Example"
 ---
 
 Jean Baudrillard predicted our present in Simulacra and Simulation when he argued that our reliance on maps and models has preceded our connection to the real world: "The territory no longer precedes the map, nor does it survive it. It is nevertheless the map that precedes the territory—precession of simulacra—that engenders the territory". Our society has surpassed the modern and entered the postmodern (or metamodern) where screens dominate the way we experience our surroundings. We have learned to read what is on our screen as a [an accurate] simulation of what exists in reality. According to Baudrillard, when it comes to postmodern simulation and simulacra, “it is no longer a question of imitation, nor duplication, nor even parody. It is a question of substituting the signs of the real for the real”. 

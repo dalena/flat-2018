@@ -5,6 +5,24 @@ path: "/flat/choi"
 image: "feature.jpg"
 description: "A short story"
 author: "Minkyung Choi"
+
+img1: "artwork/artExample1.png"
+img1txt: "Title of art by Example"
+
+img2: "artwork/artExample1.png"
+img2txt: "Title of art by Example"
+
+img3: "artwork/artExample1.png"
+img3txt: "Title of art by Example"
+
+img4: "artwork/artExample1.png"
+img4txt: "Title of art by Example"
+
+img5: "artwork/artExample1.png"
+img5txt: "Title of art by Example"
+
+img6: "artwork/artExample1.png"
+img6txt: "Title of art by Example"
 ---
 
 The short column introduces my new web-based project that I hope to share on the DMA X Journal website.  

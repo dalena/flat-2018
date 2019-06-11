@@ -5,6 +5,24 @@ path: "/flat/cebere"
 image: "feature.png"
 description: "A short story"
 author: "Agnes Cebere"
+
+img1: "artwork/artExample1.png"
+img1txt: "Title of art by Example"
+
+img2: "artwork/artExample1.png"
+img2txt: "Title of art by Example"
+
+img3: "artwork/artExample1.png"
+img3txt: "Title of art by Example"
+
+img4: "artwork/artExample1.png"
+img4txt: "Title of art by Example"
+
+img5: "artwork/artExample1.png"
+img5txt: "Title of art by Example"
+
+img6: "artwork/artExample1.png"
+img6txt: "Title of art by Example"
 ---
 
  An algorithm turns one type of visual information into another. A forest, a pool, or a waterfall, turns into a sigil, a digital map with its myriad peaks and troughs, at times smooth, at times tightly compressed. One surface turns into another, reflection turns into depth, light into form. Perspective is lost and turns opaque, creasing and folding, glossing over. Imprinted and embossed, the edges of shapes form ridges in the landscape of this new image. A desert, a mirror; absorbing the gaze.
