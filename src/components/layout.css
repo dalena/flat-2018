@@ -145,7 +145,7 @@ header {
   filter: brightness(150%) saturate(270%) contrast(300%) invert(120%) blur(.5px) saturate(60%) contrast(130%) saturate(60%); */
 }
 
-.flexbox-slider .flexbox-slide: img {
+.flexbox-slider .flexbox-slide img {
   transition-property: all;
   transition-duration: 0.6s;
   transition-timing-function: linear;
