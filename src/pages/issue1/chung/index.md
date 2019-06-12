@@ -2,6 +2,8 @@
 title: "Decision-Making, Delegated, Art-Making: AI and Art, A.D. 2019"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/chung"
+pagetype: "post"
+bgPatNum: "5"
 image: "feature.jpg"
 description: "A short story"
 author: "A. Mira Chung"

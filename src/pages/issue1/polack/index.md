@@ -2,6 +2,8 @@
 title: "Flat Vocality: Computation and the Violence of Representation in Art"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/polack"
+pagetype: "post"
+bgPatNum: "1"
 image: "feature.jpg"
 description: "A short story"
 author: "Peter Polack"

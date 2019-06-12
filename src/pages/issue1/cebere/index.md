@@ -2,6 +2,8 @@
 title: "Flat / Surface"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/cebere"
+pagetype: "post"
+bgPatNum: "3"
 image: "feature.png"
 description: "A short story"
 author: "Agnes Cebere"

@@ -2,6 +2,8 @@
 title: "Disrupting Flatness through Multi-layered Perfomance"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/choi"
+pagetype: "post"
+bgPatNum: "4"
 image: "feature.jpg"
 description: "A short story"
 author: "Minkyung Choi"

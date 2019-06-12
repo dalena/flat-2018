@@ -2,6 +2,8 @@
 title: "THE HUSBAND, THE MAN"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/cartwright"
+pagetype: "post"
+bgPatNum: "1"
 image: "feature.png"
 author: "Sarah Blakely Cartwright"
 

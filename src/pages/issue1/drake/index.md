@@ -2,6 +2,8 @@
 title: "Interview: David Valentine on the possibility of human settlement in space"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/drake"
+pagetype: "post"
+bgPatNum: "1"
 image: "feature.png"
 description: "An Interview"
 author: "Sara Drake"

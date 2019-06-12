@@ -2,6 +2,8 @@
 title: "gs://npr-book/npr-half-hour-003-of-48.wav"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/archangel"
+pagetype: "post"
+bgPatNum: "2"
 image: "feature.png"
 description: "A short story"
 author: "Cory Archangel"

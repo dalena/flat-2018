@@ -2,6 +2,8 @@
 title: "Static Noise, Dynamic Uncertainties"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/khoshgozaran"
+pagetype: "post"
+bgPatNum: "3"
 image: "feature.jpg"
 description: "A short story"
 author: "Gelare Khoshgozaran"

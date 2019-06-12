@@ -2,6 +2,8 @@
 title: "Super Ephemerality"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/hwang"
+pagetype: "post"
+bgPatNum: "2"
 image: "feature.jpg"
 description: "A short story"
 author: "Sarah Hwang"

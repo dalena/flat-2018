@@ -4,8 +4,13 @@
 }
 
 @font-face {
-  font-family: CormorantGaramond;
-  src: url("../fonts/CormorantGaramond-Regular.otf");
+  font-family: ApercuBold;
+  src: url("../fonts/Apercu_Bold_Pro.otf");
+}
+
+@font-face {
+  font-family: ApercuReg;
+  src: url("../fonts/Apercu_Regular_Pro.otf");
 }
 
 @font-face {
@@ -17,7 +22,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fff;
-  font-family: 'Rubik';
+  font-family: 'Lora';
 }
 
 p {
@@ -28,7 +33,7 @@ p {
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 35px;
   font-weight: normal;
 }
 
@@ -58,39 +63,104 @@ h5 {
 
 }
 
+body{
+  overflow-x: hidden;
+}
+
+::selection {
+  background: yellow; /* WebKit/Blink Browsers */
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: blue; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: white; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #E7F2FF; 
+}
+
 #wrapper {
-  margin: 4vw 20vw;
-  /* border: solid 1px black; */
+  margin: 2vw 5vw;
+  display: grid;
+  grid-template-columns: 1fr 4.5fr 1fr;
 }
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: 'Rubik';
+  font-family: 'ApercuReg';
   padding-bottom: 2vh;
+  grid-column: 1 / 4;
+  grid-row: 1;
+}
+
+#wrapper:has(div.headerpost){
+  margin: 0px !important;
+  background: red;
+
 }
 
 .logo a {
-  color: black;
+  font-family: 'ApercuReg';
+  color: white;
+  letter-spacing: 8px;
+  text-shadow:
+    -1px -1px 0 blue,
+    1px -1px 0 blue,
+    -5px 5px 0 blue,
+    1px 1px 0 blue;
   text-decoration: none;
 }
 
-.nav {
-  text-align: right;
+.logo a:hover {
+  color: pink;
+}
 
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
 }
 
 .nav li {
   list-style: none;
-  font-size: 26px;
+  font-size: 18px;
   line-height: 52px;
+  padding-left: 20px;
+}
+
+.nav li a{
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.nav li a:hover , .nav li a:active{
+  text-decoration:none;
+  color: blue;
+}
+
+
+.nav li a:visited {
+  color: #000;
 }
 
 .issue-nav {
-  height: 52vh;
+  height: 450px;
   display: flex;
-  border: solid .45vh #000;
+  border: 2px dashed blue;
 }
 
 
@@ -99,6 +169,16 @@ header {
   width: 100%;
   height: 100%;
   visibility: hidden;
+}
+.flexbox-slider h3 {
+  font-family: 'ApercuReg';
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.flexbox-slider h4 {
+  font-family: 'ApercuReg';
+  font-size: 20px;
 }
 
 .flexbox-slider .flexbox-slide {
@@ -158,21 +238,14 @@ header {
 .flexbox-slider .flexbox-slide .text-block {
   position: absolute;
   /* bottom: 0px; */
-  /* max-width: 900px; */
-  width: 25vw;
-  height: auto;
-  padding: 2vw;
+  max-width: 900px;
+  padding: 35px;
   border-radius: 0px;
-  background-color: rgba(0, 0, 0, 1);
-  color: #fff;
+  background-color: rgba(255, 192, 203, 1);
+  color: #000;
   z-index: 4;
   visibility: hidden;
   opacity: 0;
-}
-
-.flexbox-slider .flexbox-slide .text-block h3 {
-  font-size: 42px;
-  font-weight: 700;
 }
 
 .flexbox-slider:hover .flexbox-slide:hover {
@@ -188,6 +261,31 @@ header {
   /* -webkit-filter: saturate(100%)invert(0%);
   filter: saturate(100%) invert(0%); */
 }
+
+.bgPat1{
+  background: url("../images/issue1/patterns/bg-1.gif");
+  background-repeat: repeat;
+}
+.bgPat2{
+  background: url("../images/issue1/patterns/bg-2.gif");
+  background-repeat: repeat;
+
+}
+.bgPat3{
+  background: url("../images/issue1/patterns/bg-3.gif");
+  background-repeat: repeat;
+
+}
+.bgPat4{
+  background: url("../images/issue1/patterns/bg-4.gif");
+  background-repeat: repeat;
+}
+.bgPat5{
+  background: url("../images/issue1/patterns/bg-5.gif");
+  background-repeat: repeat;
+
+}
+
 
 .flexbox-slide-active .text-block {
   visibility: visible !important;
@@ -232,7 +330,7 @@ header {
   /* background: blue; */
 }
 
-.article-imgs img{
+.article-imgs img {
   object-fit: cover;
   width: 100%;
   max-height: 100%;
@@ -245,8 +343,10 @@ header {
 
 main {
   padding-top: 3vh;
+  grid-column: 2 / 3;
 }
 
 footer {
   padding-top: 5vh;
+  grid-column: 2 / 4;
 }
