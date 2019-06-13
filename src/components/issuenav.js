@@ -33,7 +33,7 @@ const IssueNav = (props) => (
             <div class="issue-nav">
                 <div class="flexbox-slider flexbox-slider-1">
                     {data.allMarkdownRemark.edges.map(({ node }, i) => {
-                        if (node.frontmatter.image != null) {
+                        // if (node.frontmatter.image != null) {
                             return <div class={node.frontmatter.bgPatNum != null ? "flexbox-slide bgPat"+node.frontmatter.bgPatNum : "flexbox-slide"}>
                                 <Link to={node.frontmatter.path}>
                                 {/* <img src={node.frontmatter.image.publicURL}></img> */}
@@ -43,7 +43,7 @@ const IssueNav = (props) => (
                                     </div>
                                 </Link>
                             </div>
-                        }
+                        // }
                     })}
                 </div>
             </div>

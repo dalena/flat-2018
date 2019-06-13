@@ -7,7 +7,7 @@ import Footer from "./footer"
 // import IssueNav from "./issuenav"
 import "./layout.css"
 
-const Layout = ({path, children}) => (
+const Layout = ({ path, children }) => (
   <StaticQuery
     query={graphql`
       query SiteTitleQuery($path: String!) {
@@ -36,12 +36,16 @@ const Layout = ({path, children}) => (
     `}
     render={data => (
       <>
-          <div id="wrapper">
-            <Header siteTitle={data.site.siteMetadata.title}/>
+        <div class="pre-wrapper">
+          {/* <div class="header-wrapper"> */}
+            <Header siteTitle={data.site.siteMetadata.title} isPost={path != null ? true : false} />
+          {/* </div> */}
+          <div id="wrapper" >
             {/* <IssueNav path={path}></IssueNav> */}
             <main>{children}</main>
             <Footer />
           </div>
+        </div>
       </>
     )}
   />

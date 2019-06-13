@@ -29,7 +29,7 @@ p {
   font-size: 23px;
   line-height: 40px;
   font-family: 'Lora';
-  margin-bottom: 60px;
+  /* margin-bottom: 60px; */
 }
 
 h1 {
@@ -63,12 +63,13 @@ h5 {
 
 }
 
-body{
+body {
   overflow-x: hidden;
 }
 
 ::selection {
-  background: yellow; /* WebKit/Blink Browsers */
+  background: yellow;
+  /* WebKit/Blink Browsers */
 }
 
 /* width */
@@ -78,23 +79,32 @@ body{
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: blue; 
+  background: blue;
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: white; 
+  background: white;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #E7F2FF; 
+  background: #E7F2FF;
 }
 
-#wrapper {
+#wrapper,
+.headWrapIndex {
   margin: 2vw 5vw;
   display: grid;
   grid-template-columns: 1fr 4.5fr 1fr;
+}
+
+.headWrapPost {
+  padding: 10px 30px;
+  background: #E7F2FF;
+  display: grid;
+  grid-template-columns: 1fr 4.5fr 1fr;
+
 }
 
 header {
@@ -102,18 +112,15 @@ header {
   justify-content: space-between;
   align-items: center;
   font-family: 'ApercuReg';
-  padding-bottom: 2vh;
   grid-column: 1 / 4;
   grid-row: 1;
 }
 
-#wrapper:has(div.headerpost){
-  margin: 0px !important;
-  background: red;
-
-}
-
 .logo a {
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transition-delay: 0.05s;
   font-family: 'ApercuReg';
   color: white;
   letter-spacing: 8px;
@@ -142,13 +149,14 @@ header {
   padding-left: 20px;
 }
 
-.nav li a{
+.nav li a {
   text-decoration: none;
   text-transform: uppercase;
 }
 
-.nav li a:hover , .nav li a:active{
-  text-decoration:none;
+.nav li a:hover,
+.nav li a:active {
+  text-decoration: none;
   color: blue;
 }
 
@@ -170,6 +178,7 @@ header {
   height: 100%;
   visibility: hidden;
 }
+
 .flexbox-slider h3 {
   font-family: 'ApercuReg';
   font-size: 28px;
@@ -262,25 +271,29 @@ header {
   filter: saturate(100%) invert(0%); */
 }
 
-.bgPat1{
+.bgPat1 {
   background: url("../images/issue1/patterns/bg-1.gif");
   background-repeat: repeat;
 }
-.bgPat2{
+
+.bgPat2 {
   background: url("../images/issue1/patterns/bg-2.gif");
   background-repeat: repeat;
 
 }
-.bgPat3{
+
+.bgPat3 {
   background: url("../images/issue1/patterns/bg-3.gif");
   background-repeat: repeat;
 
 }
-.bgPat4{
+
+.bgPat4 {
   background: url("../images/issue1/patterns/bg-4.gif");
   background-repeat: repeat;
 }
-.bgPat5{
+
+.bgPat5 {
   background: url("../images/issue1/patterns/bg-5.gif");
   background-repeat: repeat;
 
@@ -312,41 +325,122 @@ header {
   visibility: visible;
 }
 
-.content {
-  /* padding-top: 3vh; */
+
+main {
+  grid-column: 2 / 3;
 }
 
 .article {
   text-align: justify;
   display: grid;
-  grid-template-columns: 1.5fr 2fr;
-  grid-gap: 3vw;
-  /* border: 1px black solid; */
-  /* background: red; */
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  /* grid-gap: 3vw; */
   margin: 0 auto;
 }
 
+.article-meta h3 {
+  font-family: "ApercuReg";
+  font-size: 24px;
+  text-align: left;
+
+}
+
+.article-meta h2 {
+  font-family: "ApercuReg";
+  font-size: 35px;
+  font-weight: bold;
+  text-align: left;
+
+}
+
+.article-meta {
+  grid-column: 1 / 4;
+  grid-row: 1 / 2;
+}
+
 .article-text {
-  /* background: blue; */
+  grid-column: 1 / 4;
+  grid-row: 3 / 4;
+  /* padding-top: 30px; */
 }
 
-.article-imgs img {
-  object-fit: cover;
-  width: 100%;
-  max-height: 100%;
+.article-text a {
+  text-decoration: none;
+  color: blue;
 }
 
-.article-img img {
-  max-width: 600px;
-  height: auto;
+.article-text a:visited {
+  color: blue;
 }
 
-main {
-  padding-top: 3vh;
-  grid-column: 2 / 3;
+.article-text sup {
+  vertical-align: super;
+  font-size: 12px;
+}
+
+.article-text h3 {
+  font-family: "ApercuReg";
+  font-size: 24px;
+  text-align: left;
+
+}
+
+.article-text h4 {
+  font-family: "ApercuReg";
+  font-size: 24px;
+  text-align: center;
+
+}
+
+.article-text h5 {
+  line-height: 25px;
+  font-family: 'LoraReg';
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+}
+
+.article-text h6 {
+  line-height: 38px;
+  font-family: 'ApercuReg';
+  font-size: 21px;
+  margin: 0;
+  /* font-style: italic; */
+  /* text-align: center; */
+}
+
+.article-text p {
+  line-height: 28px;
+  font-family: 'LoraReg';
+  font-size: 20px;
+  /* padding: 15px 0px; */
+}
+
+.article-text span.cite {
+  font-size: 12px;
+  line-height: 1.5;
+  padding: 0px;
+  margin: 0px;
+  color: #000;
+}
+
+.article-text span.bio {
+  display: block;
+  padding: 28px;
+  background: #fff3be;
+  font-family: 'ApercuReg';
+  font-size: 18px;
+  margin-top: 20px;
 }
 
 footer {
   padding-top: 5vh;
   grid-column: 2 / 4;
+}
+
+
+/* GATSBY FIXES */
+.gatsby-image-wrapper picture img {
+  position: relative !important;
 }
