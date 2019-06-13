@@ -417,6 +417,10 @@ main {
   /* padding: 15px 0px; */
 }
 
+.article-text span.imgFloat{
+  /* display: flex; */
+}
+
 .article-text span.cite {
   font-size: 12px;
   line-height: 1.5;

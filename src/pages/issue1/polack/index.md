@@ -108,8 +108,11 @@ Jenna Wortham, "Finding Inspiration for Art in the Betrayal of Privacy." *New Yo
 
 ---
 
-<span class="bioArt">
+<span class="bio">
 
-#### ABOUT THE ART & THE ARTIST
-
+###### ABOUT THE ART & THE ARTIST  
+_Improvisation_ is a collection of five 17-inch by 22-inch posters and an experimental animation video which captured the improvised dances between the artist, [Chris Kim](www.chkartdesign.com), and 4 other people.  
+  
+Instagram: [@i.am.chk](https://www.instagram.com/i.am.chk/)  
+Website: [www.chkartdesign.com](www.chkartdesign.com)
 </span>

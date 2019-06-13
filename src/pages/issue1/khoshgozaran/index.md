@@ -34,7 +34,7 @@ As artworkers we need to recreate our narrative of the self by cultivating diffe
 ---
 
 <!-- Footnotes and Citations -->
-<p class="cite">
+<span class="cite">
 <sup>1</sup> Han, Byung-Chul. Psychopolitics Neoliberalism and New Technologies of Power. Verso, 2017, p. 12.</br>  
 <sup>2</sup> ibid, p. 25.</br>
 <sup>3</sup> ibid, p. 36.</br>  
@@ -42,4 +42,4 @@ As artworkers we need to recreate our narrative of the self by cultivating diffe
 <sup>5</sup> ibid, p. 6.</br>  
 <sup>6</sup> Han, Byung-Chul. Psychopolitics Neoliberalism and New Technologies of Power. Verso, 2017, p. 70.</br>  
 <sup>7</sup> Raqs Media Collective, It’s Written Because It’s Written, CA2M . Centro de Arte Dos de Mayo. MUAC . Museo Universitario Arte Contemporáneo, UNAM. Fundación PROA, p. 145.   
-</p>
+</span>
