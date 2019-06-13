@@ -39,7 +39,6 @@ export const postQuery = graphql`
         path
         title
         author
-        imageCap
         image {
           absolutePath
           base
