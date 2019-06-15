@@ -257,13 +257,13 @@ header {
   flex-direction: column;
 }
 
-.flexbox-slider .flexbox-slide .text-block h3{
+.flexbox-slider .flexbox-slide .text-block h3 {
   /* margin: 0; */
   /* padding: 0px 35px; */
   width: 90%;
 }
 
-.flexbox-slider .flexbox-slide .text-block h4{
+.flexbox-slider .flexbox-slide .text-block h4 {
   margin-top: 0;
 }
 
@@ -423,7 +423,7 @@ main {
   /* padding: 15px 0px; */
 }
 
-.article-text span.imgFloat{
+.article-text span.imgFloat {
   /* display: flex; */
 }
 
@@ -446,6 +446,7 @@ main {
 
 footer {
   padding-top: 5vh;
+  padding-bottom: 5vh;
   grid-column: 2 / 4;
 }
 
@@ -454,3 +455,61 @@ footer {
 .gatsby-image-wrapper picture img {
   position: relative !important;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 1650px) {
+  #wrapper {
+    margin: .5vw 2.55vw;
+  }
+
+  .flexbox-slider h3 {
+    font-size: 22px;
+  }
+
+  .flexbox-slider h4 {
+    font-size: 15px;
+  }
+
+  .article-meta {
+    grid-column: 1 / 7;
+  }
+
+  
+  .article-meta h2 {
+    font-size: 22px;
+  }
+  
+  .article-meta h3 {
+    font-size: 15px;
+  }
+  
+  .article-text {
+    grid-column: 1 / 7;
+  }
+
+  .article-text p{
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .article-text h3 {
+    line-height: 30px;
+    font-size: 18px;
+  }
+  .article-text h5 {
+    line-height: 16px;
+    font-size: 14px;
+  }
+  .article-text h6 {
+    line-height: 36px;
+    font-size: 18px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}

@@ -9,8 +9,6 @@ bgPatNum: "1"
 ![](/artwork/imgCebere01.jpg)[](#)
 ##### Pool, Agnese Cebere.
 
-### Flat / Surface 
-
 An algorithm turns one type of visual information into another. A forest, a pool, or a waterfall, turns into a sigil, a digital map with its myriad peaks and troughs, at times smooth, at times tightlycompressed. One surface turns into another, reflection turns into depth, light into form. Perspectiveis lost and turns opaque, creasing and folding, glossing over. Imprinted and embossed, the edges ofshapes form ridges in the landscape of this new image. A desert, a mirror; absorbing the gaze.
    
 The surfaces in this series range between shiny chrome and quicksilver, resin, wax and dense charcoal.A flatness that is never quite flat but invokes haptic seeing, touching with the mind’s eye the imagethat has been translated from an analog process of light capture onto film, to a digital manipulationthat invites another order of chance and automation into the process of transformation.
