@@ -79,7 +79,7 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: blue;
+  background: #1A1851;
 }
 
 /* Handle */
@@ -117,7 +117,6 @@ header {
 }
 
 .logo a {
-  transition-property: all;
   transition-duration: 0.5s;
   transition-timing-function: linear;
   transition-delay: 0.05s;
@@ -125,10 +124,10 @@ header {
   color: white;
   letter-spacing: 8px;
   text-shadow:
-    -1px -1px 0 blue,
-    1px -1px 0 blue,
-    -5px 5px 0 blue,
-    1px 1px 0 blue;
+    -1px -1px 0 #1A1851,
+    1px -1px 0 #1A1851,
+    -5px 5px 0 #1A1851,
+    1px 1px 0 #1A1851;
   text-decoration: none;
 }
 
@@ -157,7 +156,7 @@ header {
 .nav li a:hover,
 .nav li a:active {
   text-decoration: none;
-  color: blue;
+  color: #1A1851;
 }
 
 
@@ -166,9 +165,9 @@ header {
 }
 
 .issue-nav {
-  height: 450px;
+  height: 550px;
   display: flex;
-  border: 2px dashed blue;
+  border: 1px solid #1A1851;
 }
 
 
@@ -191,7 +190,6 @@ header {
 }
 
 .flexbox-slider .flexbox-slide {
-  transition-property: all;
   transition-duration: 0.5s;
   transition-timing-function: linear;
   transition-delay: 0.05s;
@@ -235,7 +233,6 @@ header {
 }
 
 .flexbox-slider .flexbox-slide img {
-  transition-property: all;
   transition-duration: 0.6s;
   transition-timing-function: linear;
   transition-delay: 0.06s;
@@ -246,8 +243,9 @@ header {
 
 .flexbox-slider .flexbox-slide .text-block {
   position: absolute;
-  /* bottom: 0px; */
-  max-width: 900px;
+  /* min-width: 300px; */
+  width: 100%;
+  /* max-width: 900px; max-width: 900px; */
   padding: 35px;
   border-radius: 0px;
   background-color: rgba(255, 192, 203, 1);
@@ -255,6 +253,18 @@ header {
   z-index: 4;
   visibility: hidden;
   opacity: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.flexbox-slider .flexbox-slide .text-block h3{
+  /* margin: 0; */
+  /* padding: 0px 35px; */
+  width: 90%;
+}
+
+.flexbox-slider .flexbox-slide .text-block h4{
+  margin-top: 0;
 }
 
 .flexbox-slider:hover .flexbox-slide:hover {
@@ -272,29 +282,29 @@ header {
 }
 
 .bgPat1 {
-  background: url("../images/issue1/patterns/bg-1.gif");
+  background: url("../images/issue1/patterns/pat1.png");
   background-repeat: repeat;
 }
 
 .bgPat2 {
-  background: url("../images/issue1/patterns/bg-2.gif");
+  background: url("../images/issue1/patterns/pat2.png");
   background-repeat: repeat;
 
 }
 
 .bgPat3 {
-  background: url("../images/issue1/patterns/bg-3.gif");
+  background: url("../images/issue1/patterns/pat3.png");
   background-repeat: repeat;
 
 }
 
 .bgPat4 {
-  background: url("../images/issue1/patterns/bg-4.gif");
+  background: url("../images/issue1/patterns/pat4.png");
   background-repeat: repeat;
 }
 
 .bgPat5 {
-  background: url("../images/issue1/patterns/bg-5.gif");
+  background: url("../images/issue1/patterns/pat5.png");
   background-repeat: repeat;
 
 }
@@ -303,7 +313,7 @@ header {
 .flexbox-slide-active .text-block {
   visibility: visible !important;
   opacity: 1 !important;
-  top: 13vh;
+  /* top: 5vh; */
 
 }
 
@@ -311,16 +321,12 @@ header {
   width: 0%;
 }
 
-.flexbox-slider.flexbox-slider-1 .flexbox-slide .text-block {
-  /* bottom: 30px; */
-}
 
 .flexbox-slider.flexbox-slider-1:hover .flexbox-slide:hover .text-block {
-  transition-property: all;
   transition-duration: 0.5s;
   transition-timing-function: linear;
   transition-delay: 0.5s;
-  top: 13vh;
+  top: 20%;
   opacity: 1;
   visibility: visible;
 }
@@ -367,11 +373,11 @@ main {
 
 .article-text a {
   text-decoration: none;
-  color: blue;
+  color: #1A1851;
 }
 
 .article-text a:visited {
-  color: blue;
+  color: #1A1851;
 }
 
 .article-text sup {

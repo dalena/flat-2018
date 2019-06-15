@@ -22,10 +22,11 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-transformer-remark",
+      resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-embed-video`,
             resolve: `gatsby-remark-images`,
             options: {
               // It's important to specify the maxWidth (in pixels) of
@@ -39,6 +40,8 @@ module.exports = {
         ],
       },
     },
+
+
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
   ],

@@ -1,18 +1,22 @@
 ---
 title: "Disrupting Flatness through Multi-layered Performances of Discordance; 
 Proposal for my upcoming streaming channel “Green | House”"
-date: 2019-06-13T17:12:33.962Z
 path: "/flat/choi"
 author: "Minkyung Choi"
 pagetype: "post"
 bgPatNum: "4"
 ---
 
-#### The short column introduces my new web-based project that I hope to share on the DMA X Journal website. 
 #### [ch-greenhouse.me](https://www.youtube.com/channel/UCBEsR6zV5WvOCv0ym66C7Pg?view_as=subscriber) 
 #### [YouTube Channel: Green House](https://www.youtube.com/channel/UCBEsR6zV5WvOCv0ym66C7Pg?view_as=subscriber)
 
 #### ***
+
+`video: https://www.youtube.com/embed/srfy9uJMHkk`  
+
+`youtube: https://www.youtube.com/watch?v=srfy9uJMHkk` 
+
+`youtube: srfy9uJMHkk`
 
 My art practice has been motivated by the irreconcilable gap between images, desires and bodies. Here, the images are not only visual productions but also mental ones that define one’s aspirations, as well as a sense of identity. My works deals with the issues of representation inherent in patriarchal and consumerist culture from the perspective of a woman through repurposing media culture, forms of digital technologies and performances. 
 

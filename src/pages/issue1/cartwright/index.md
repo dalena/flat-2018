@@ -1,30 +1,13 @@
 ---
 title: "THE HUSBAND, THE MAN"
-date: 2019-06-13T17:12:33.962Z
+author: "Sarah Blakely Cartwright"
 path: "/flat/cartwright"
 pagetype: "post"
-bgPatNum: "1"
-image: "feature.png"
-author: "Sarah Blakely Cartwright"
-
-img1: "artwork/artCartwrightFang1.jpg"
-img1txt: "Title of art by Amy Fang"
-
-img2: "artwork/artCartwrightFang2.jpg"
-img2txt: "Title of art by Amy Fang"
-
-img3: "artwork/artCartwrightFang3.jpg"
-img3txt: "Title of art by Amy Fang"
-
-img4: "artwork/artCartwrightFang4.jpg"
-img4txt: "Title of art by Amy Fang"
-
-img5: "artwork/artCartwrightFang5.jpg"
-img5txt: "Title of art by Amy Fang"
-
-img6: "artwork/artCartwrightFang6.jpg"
-img6txt: "Title of art by Amy Fang"
+bgPatNum: "4"
 ---
+
+![](/artwork/imgCartwrightFang1.jpg)[](#)
+##### Image courtesy of Amy Fang
 
 The girl heard the wife laughing in the other room. The wife came out and found the girl showing the son a bug that had landed on the kitchen counter. The girl could hear the boy paging through his book at the kitchen table. The husband asked the girl what she was always writing in her notebook. When she showed him, it was passages she liked from books, taken down verbatim. He thought it was notes, he was glad it wasn't.
 
@@ -37,6 +20,9 @@ The husband liked to have lunch in the sun. The wife rearranged the flowers. Ste
 The girl moved to St. John’s Place. Someone stole the girl’s suitcase as she was moving. The girl spilled ink on her skirt and held the fabric up to the kitchen sink. The girl didn’t have many skirts. The girl likes the dates she's not supposed to eat out of the box in the refrigerator, and would like to get them for her aunt for Christmas, but she can't ask where they're from, because she’s not supposed to have eaten them.
 
 The man describes the dongle she is to pick up, first as a dongle and then as the piece that goes into the video’s “female.” The girl joins a team. There was going to be a housing inspection. The husband asked the girl to install a second smoke detector. 
+
+![](/artwork/imgCartwrightFang2.jpg)[](#)
+##### Image courtesy of Amy Fang
 
 The girl opened the wife’s birth-control pack and looked at it.
 
@@ -52,6 +38,9 @@ It's a job, the wife said.
 
 The husband asked if there was something sexy about a fortune cookie.
 The girl wondered: Was there?
+
+![](/artwork/imgCartwrightFang3.jpg)[](#)
+##### Image courtesy of Amy Fang
 
 The husband used different expressions to explain his wife’s absence.
 Tuckered out.

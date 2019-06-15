@@ -167,3 +167,12 @@ Before wrapping up, we would like to add some residual questions that should (or
 <sup>22</sup> https://www.theatlantic.com/technology/archive/2019/03/ai-created-art-invades-chelsea-gallery-scene/584134/</br>
 <sup>23</sup> http://rhizome.org/editorial/2018/apr/18/blobs-of-flesh-categorized-as-human/</br>    
 </span>
+
+---
+<span class="bio">
+
+###### ABOUT THE ARTIST  
+**Mira C** is a transdisciplinary something based in San Francisco. They write and draw about rumors, speculations, drama, and hopes surrounding a candidate of disruptive innovation. 
+  
+Website: [https://medium.com/@mirarim ](https://medium.com/@mirarim)
+</span>

@@ -5,6 +5,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     const articlePostTemplate = path.resolve(`src/templates/article.js`)
 
+    const pagePostTemplate = path.resolve(`src/templates/page.js`)
+
     return graphql(`
     {
       allMarkdownRemark {
@@ -15,6 +17,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             frontmatter {
               path
               title
+              pagetype
             }
           }
         }

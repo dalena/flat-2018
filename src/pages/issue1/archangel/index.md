@@ -1,33 +1,12 @@
 ---
 title: "gs://npr-book/npr-half-hour-003-of-48.wav"
-date: 2019-06-13T17:12:33.962Z
+author: "Cory Archangel"
 path: "/flat/archangel"
 pagetype: "post"
 bgPatNum: "2"
-image: "feature.png"
-description: "A short story"
-author: "Cory Archangel"
-
-img1: "artwork/artExample1.png"
-img1txt: "Title of art by Example"
-
-img2: "artwork/artExample1.png"
-img2txt: "Title of art by Example"
-
-img3: "artwork/artExample1.png"
-img3txt: "Title of art by Example"
-
-img4: "artwork/artExample1.png"
-img4txt: "Title of art by Example"
-
-img5: "artwork/artExample1.png"
-img5txt: "Title of art by Example"
-
-img6: "artwork/artExample1.png"
-img6txt: "Title of art by Example"
 ---
 
-Transcription: Marketplace is supported by Drexel University Drexel University I know I use this yesterday but honestly it is just so good is the problem is there is a brexit deal we think from American public media
+**Transcription**: Marketplace is supported by Drexel University Drexel University I know I use this yesterday but honestly it is just so good is the problem is there is a brexit deal we think from American public media
 Marketplace is supported by Progressive Insurance offering snapshot a device that adjusts insurance rates based on safe driving habits now that's Progressive learn more Progressive, and I figure providing a streamline digital platform for home equity loans you can learn how to use the equity in your home for Home Improvement major purchases or debt consolidation at figured and buy invest Northern Ireland Northern Ireland a European location with a skilled agile Workforce focused on results more Ivan best and I. Com
 in Los Angeles on Conroy solid Wednesday Today 14th of November good as always to have you along everybody this evening I'm a single television camera fixed on the door number ten Downing Street yesterday and that her hours debating it went like this song I'd weather to move on in the tools and this thing runs 585 Pages just the Preamble takes five pages all the throat clearing in the wherefores it and all of that
 absolute difficult contentious issue has been old Irish backstop has agreed to stay close to the other than that a word about what this proposed Arrangement is not it is not a road map for the future relations between the EU and Britain right this is officially 429 prime minister said this evening at London time of standing before 10 Downing Street and that she's going to make a statement
@@ -64,3 +43,11 @@ you're listening to Marketplace on WNYC all coming up next day 2
  this is a Pia
  WNYC supporters include CBS films presenting at eternity's gate from the natural world around him in Select theaters this Friday
  you're listening to things considered series that looks behind and sickle cell on the TED Radio Hour in unexpected places it's our Wednesday evening WNYC
+
+ <span class="bio">
+
+###### ABOUT THE ARTIST  
+**Cory Arcangel** (b. 1978, Buffalo, NY) is a composer, artist, and entrepreneur. After having lived in New York for 15 years, Arcangel recently moved to Stavanger, Norway where he lives and works by telecommuting to his studio in Brooklyn - which he still maintains. Since moving, he has worked on a dizzying array of seemingly un-related projects; For the 2019 Sharjah Biennial he created banners of “destroyed jeans” for the facade of the Sharjah Art Museum, as well as composed a new work for pipe organ - which was placed into the mix at the Radisson Blu Sharjah gym. In collaboration with Olia Lialina, he recently toured the two-person show, “Asymmetrical Response” which traveled to the Western Front (2016) in Vancouver, the Kitchen in New York (2017), and Art Projects Ibiza in Ibiza (2017); Under the auspices of Arcangel Surfware - a software and merchandise publishing company he founded - he published Tony Conrad's 200 plus hour long piano piece, Music and the Mind of the World in 2017, released a line of fidgit spinners, as well as opened a flagship store and gallery in Stavanger in 2018 - where he can be found working on Saturdays. His work is included in many public collections, including the MoMA in New York, the Tate in London, Berlin's Neue Nationalgalerie, and the Migros Museum für Gegenwartskunst in Zürich. 
+
+*Left* (2019) is a half hour of WNYC's internet audio stream, converted to text using Google's text-to-speech Cloud AI service.
+</span>

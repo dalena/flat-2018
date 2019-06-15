@@ -1,29 +1,16 @@
 ---
 title: "Room"
-date: 2019-06-13T17:12:33.962Z
 path: "/flat/young"
 pagetype: "post"
 bgPatNum: "3"
-image: "feature.png"
-description: "A short story"
 author: "Erica Young"
-
-img1: "artwork/artExample1.png"
-img1txt: "Title of art by Example"
-
-img2: "artwork/artExample1.png"
-img2txt: "Title of art by Example"
-
-img3: "artwork/artExample1.png"
-img3txt: "Title of art by Example"
-
-img4: "artwork/artExample1.png"
-img4txt: "Title of art by Example"
-
-img5: "artwork/artExample1.png"
-img5txt: "Title of art by Example"
-
-img6: "artwork/artExample1.png"
-img6txt: "Title of art by Example"
 ---
 
+<span class="interImg">
+
+<img src="/artwork/imgYoung1.gif">
+
+</div>
+<span class="interText">
+<i>Room</i> is a point and click adventure game which was inspired by the "escape the room" Flash-based games which were common in the 90s. The creator of Room had nothing but dial-up until the late 2000s, and often chose to suffer through these games as they did not require a fast(er) internet connection. However, as these games often contained incongruent logic in the solutions they presented, they were often incredibly frustrating to play. Room channels that frustration into experiences, each represented by a physical object in the room itself. Most of it's true. Some of it's not.
+</div>
