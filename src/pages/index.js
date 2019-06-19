@@ -1,11 +1,9 @@
-import React from "react"
-import { Link, graphql, StaticQuery } from "gatsby"
-import { Helmet } from "react-helmet"
+import React from "react";
+import { graphql, StaticQuery } from "gatsby";
 
-import Layout from "../components/layout"
-import Img from "../components/image"
-import SEO from "../components/seo"
-import IssueNav from "../components/issuenav"
+import Layout from "../components/Layout";
+import SEO from "../components/SEO";
+import IssueNav from "../components/IssueNav";
 
 
 const IndexPage = ({ path }) => (

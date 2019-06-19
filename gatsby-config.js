@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `JOURNAL X`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `FLAT`,
+    description: `FLAT is a journal for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts. `,
+    author: `FLAT`,
   },
   plugins: [
     "gatsby-plugin-catch-links",
@@ -10,8 +10,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/pages/issue1/`,
-        name: "pages",
+        name: `issueContent`,
+        path: `${__dirname}/src/content/issues/1-flat/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/content`,
       },
     },
     {
@@ -32,7 +39,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 800,
+              maxWidth: 1600,
               wrapperStyle: `max-width: none !important;`,
               withWebp: true
             },
