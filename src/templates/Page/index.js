@@ -9,12 +9,7 @@ export default function Page({ data }) {
   return (
     <Layout path={post.frontmatter.path}>
       <SEO title={`${post.frontmatter.title}`} />
-      <div class="issue-nav">
-        <div class="article-meta">
-          <h1>Test</h1>
-          <h3>{post.frontmatter.author}</h3>
-          <h2>{post.frontmatter.title}</h2>
-        </div>
+      <div class="page-cont">
         <div
           className="article-text"
           dangerouslySetInnerHTML={{ __html: post.html }}

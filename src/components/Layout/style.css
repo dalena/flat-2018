@@ -171,6 +171,15 @@ header {
   border: 1px solid #1A1851;
 }
 
+.page-cont {
+  height: 550px;
+  display: flex;
+  border: 1px solid #1A1851;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 20px 60px;
+
+}
 
 .flexbox-slider {
   display: flex;
@@ -458,7 +467,11 @@ footer {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 1650px) {
   #wrapper {
-    margin: .5vw 2.55vw;
+    margin: 4vw 6vw;
+  }
+
+  main{
+    grid-column: 1 / 4;
   }
 
   .flexbox-slider h3 {

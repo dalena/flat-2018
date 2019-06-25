@@ -4,7 +4,7 @@ path: "/cfp"
 type: "page"
 ---
 
-# CFP
+# Call for Proposals
 
 For every mountain, a prairie; for every boss, a worker; for every server, a peer; for every body, a screen. Nearly every sector of our lives has a continuum with one end marked, if only through analogy, as flat. The list of the not-flat is nearly endless—sharp, bumpy, irregular, striated, hierarchical, shallow, unbalanced, dynamic, askew, lumpy. These terms play out in discussions about the distributed web and the future of the internet, best practices in interface design, the organization of political movements and companies, and our lived experience with a ubiquity of two dimensional screens. For thinkers like Hiroki Azuma, the flat (or hyperflat as he would have it) refers “to a characteristic that is thoroughly planar and yet transcends the plane. The hyperflat world, represented by the computer screen, is flat and at the same time lines up what exists beyond it in a parallel layer.” While for some, the flat is a paradise, a goal towards which we ought to strive, for others it represents everything that could go wrong. Either way, flat is always an absolute, always an extreme. The journal’s inaugural issue, Flat, will unpack these associations and ask how and where flatness lies in our world, functionally or dysfunctionally, shaping (or is it unshaping?) everything from visual culture, to politics, economics, and technological topologies.
 
