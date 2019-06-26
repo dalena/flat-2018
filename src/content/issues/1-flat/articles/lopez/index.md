@@ -2,7 +2,7 @@
 title: "Selected Works"
 path: "/flat/lopez"
 author: "Karina Lopez"
-type: "artwork"
+type: "article"
 bgPatNum: "2"
 ---
 

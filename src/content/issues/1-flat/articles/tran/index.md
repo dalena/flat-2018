@@ -1,31 +1,11 @@
 ---
 title: "The Delay"
-date: 2019-06-13T17:12:33.962Z
 path: "/flat/tran"
-type: "article"
+type: "artwork"
 bgPatNum: "2"
-image: "feature.jpg"
-description: "A short story"
+image: "artTran1.png"
 author: "Dalena Tran"
-
-img1: "artwork/artExample1.png"
-img1txt: "Title of art by Example"
-
-img2: "artwork/artExample1.png"
-img2txt: "Title of art by Example"
-
-img3: "artwork/artExample1.png"
-img3txt: "Title of art by Example"
-
-img4: "artwork/artExample1.png"
-img4txt: "Title of art by Example"
-
-img5: "artwork/artExample1.png"
-img5txt: "Title of art by Example"
-
-img6: "artwork/artExample1.png"
-img6txt: "Title of art by Example"
+btn: "https://dalena.github.io/Delay/"
 ---
 
-
-<iframe src="https://dalena.github.io/Delay/" width=100% height="1000vh">
+"The Delay" is a five-part narrative about the lives of four characters who each are confronted with their relationship to time, identity, and media. Sang, a bitter librarian and part-time gambler with a questionable diet, collapses with the onset of a fatal but curable disease. Nour, Sang's granddaughter and self-proclaimed entrepreneur finds a way to turn an episode of grief into a chance to be a part of a greater plan. A couple, with nothing to lose and a whole lot of money, commit themselves to a barren form of nostalgia to satiate their burnt out romance.
