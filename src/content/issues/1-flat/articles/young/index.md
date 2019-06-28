@@ -5,7 +5,7 @@ type: "artwork"
 bgPatNum: "3"
 author: "Erica Young"
 image: "imgYoung1.gif"
-btn: "https://editor.p5js.org/sebbenandsebben/present/nlQPwQXqP"
+btn: "/flat/young/room"
 ---
 
 

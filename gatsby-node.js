@@ -4,11 +4,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators
 
   const getTemplate = (type) => {
-    switch(type) {
+    switch (type) {
       case 'article':
         return 'src/templates/Article/index.js';
       case 'artwork':
         return 'src/templates/Artwork/index.js';
+      case 'iframe':
+        return 'src/templates/Iframe/index.js';
       default:
         return 'src/templates/Page/index.js';
     }

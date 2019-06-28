@@ -562,8 +562,8 @@ footer {
   }
 
   .article-text p {
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 16px;
+    line-height: 24px;
   }
 
   .article-text h3 {
@@ -580,10 +580,45 @@ footer {
     line-height: 36px;
     font-size: 18px;
   }
+
+  .art-left {
+    grid-column: 1 / 7;
+  }
+
+  .art-right {
+    grid-row: 3 / 5;
+    grid-column: 1 / 7;
+  }
+
+  .art-right p {
+    padding-left: 0px;
+    padding-top: 30px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .article button {
+    margin-top: 10px;
+  }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 600px) {
+  .article-meta h2 {
+    font-size: 32px;
+    margin: 5px;
+  }
+
+  .article-meta h3 {
+    font-size: 24px;
+    margin: 5px;
+  }
+  .article-text p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {}
