@@ -3,15 +3,15 @@ import PropTypes from "prop-types";
 import React from "react";
 
 const Header = ({ path, siteTitle, isPost }) => (
-  <div class={isPost === true ? "headWrapPost" : "headWrapIndex"} >
+  <div className={isPost === true ? "headWrapPost" : "headWrapIndex"} >
     <header>
-      <div class="logo">
+      <div className="logo">
         <Link to="/">
           <h1>FLAT</h1>
         </Link>
         {/* <h3>Issue 1 : FLAT</h3> */}
       </div>
-      <div class="nav">
+      <div className="nav">
         <li><Link to="/cfp">CFP</Link></li>
         <li><Link to="/about">About</Link></li>
         <li><Link to="/people">People</Link></li>

@@ -17,7 +17,7 @@ export default function Artwork({ data }) {
           <h2>{post.frontmatter.title}</h2>
         </div>
         <div class="art-left">
-          <img src={post.frontmatter.image.publicURL}></img>
+          <img src={post.frontmatter.image.publicURL} alt=""></img>
         </div>
         <div class="art-right">
           <div

@@ -37,7 +37,9 @@ const IssueNav = (props) => (
                 <div class="flexbox-slider flexbox-slider-1">
                     {data.allMarkdownRemark.edges.map(({ node }, i) => {
                         // if (node.frontmatter.image != null) {
-                            return <div class={node.frontmatter.bgPatNum != null ? "flexbox-slide bgPat"+node.frontmatter.bgPatNum : "flexbox-slide"}>
+                            return <div
+                                key={`${node.frontmatter.title}-${node.frontmatter.author}`}
+                                class={node.frontmatter.bgPatNum != null ? "flexbox-slide bgPat"+node.frontmatter.bgPatNum : "flexbox-slide"}>
                                 <Link to={node.frontmatter.path}>
                                 {/* <img src={node.frontmatter.image.publicURL}></img> */}
                                     <div class="text-block">
