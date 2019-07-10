@@ -1,5 +1,3 @@
-import { navigate } from "gatsby";
-
 import Ring from './Ring';
 
 import fontURL from './fonts/Mukta-Regular.ttf';
@@ -76,7 +74,7 @@ const Sketch = (sketch) => {
 			const ring = rings[i];
 			const path = ring.mousePressed();
 			if (path !== false) {
-				navigate(path);
+				window.location.href = path;
 				break;
 			}
 		}
