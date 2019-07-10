@@ -12,14 +12,14 @@ export default function Artwork({ data }) {
       <SEO title="Home" />
       <Helmet title={`${post.frontmatter.title}`} />
       <div className="article">
-        <div class="article-meta">
+        <div className="article-meta" >
           <h3>{post.frontmatter.author}</h3>
           <h2>{post.frontmatter.title}</h2>
         </div>
-        <div class="art-left">
+        <div className="art-left" >
           <img src={post.frontmatter.image.publicURL} alt=""></img>
         </div>
-        <div class="art-right">
+        <div className="art-right" >
           <div
             className="art-text"
             dangerouslySetInnerHTML={{ __html: post.html }}

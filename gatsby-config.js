@@ -3,6 +3,7 @@ module.exports = {
     title: `FLAT`,
     description: `FLAT is a journal for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts. `,
     author: `FLAT`,
+    currentIssue: 1,
   },
   plugins: [
     "gatsby-plugin-catch-links",

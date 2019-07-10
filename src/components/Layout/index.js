@@ -35,8 +35,8 @@ const Layout = ({ path, children }) => (
     `}
     render={data => (
       <>
-        <div class="pre-wrapper">
-          {/* <div class="header-wrapper"> */}
+        <div className="pre-wrapper">
+          {/* <div className="header-wrapper"> */}
             <Header siteTitle={data.site.siteMetadata.title} isPost={path != null ? true : false} />
           {/* </div> */}
           <div id="wrapper" >

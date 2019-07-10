@@ -1,10 +1,32 @@
-import { Link } from "gatsby";
-import React from "react";
+import React, { Component } from "react";
 import { StaticQuery, graphql } from "gatsby";
 
-const IssueNav = (props) => (
-    <StaticQuery
-        query={graphql`
+import Sketch, { setData } from './Sketch';
+import p5 from 'p5';
+
+import style from './style.module.css';
+
+
+class IssueNav extends Component {
+  constructor() {
+    super();
+    this.p5Node = React.createRef();
+  }
+
+  componentDidMount() {
+    // this.sketch = new Sketch(this.p5Node.current);
+    setData(this.props.nodes);
+    this.sketch = new p5(Sketch, this.p5Node.current);
+  }
+
+  render() {
+    return <div className={style.issueNav} ref={this.p5Node} />
+  }
+}
+
+const IssueNavWrapped = (props) => (
+  <StaticQuery
+    query={graphql`
         query IssueNavigationQuery {
             allMarkdownRemark(
             filter: {
@@ -32,29 +54,11 @@ const IssueNav = (props) => (
             }
         }
       `}
-        render={data => (
-            <div class="issue-nav">
-                <div class="flexbox-slider flexbox-slider-1">
-                    {data.allMarkdownRemark.edges.map(({ node }, i) => {
-                        // if (node.frontmatter.image != null) {
-                            return <div
-                                key={`${node.frontmatter.title}-${node.frontmatter.author}`}
-                                class={node.frontmatter.bgPatNum != null ? "flexbox-slide bgPat"+node.frontmatter.bgPatNum : "flexbox-slide"}>
-                                <Link to={node.frontmatter.path}>
-                                {/* <img src={node.frontmatter.image.publicURL}></img> */}
-                                    <div class="text-block">
-                                        <h3>{node.frontmatter.title}</h3>
-                                        <h4>{node.frontmatter.author}</h4>
-                                    </div>
-                                </Link>
-                            </div>
-                        // }
-                    })}
-                </div>
-            </div>
-
-        )}
-    />
+    render={data => {
+      const nodes = data.allMarkdownRemark.edges.map(({ node: { frontmatter: { title, author, path } } }, i) => ({ title, author, path }));
+      return (<IssueNav nodes={ nodes } />)
+    }}
+  />
 )
 
-export default IssueNav;
+export default IssueNavWrapped;

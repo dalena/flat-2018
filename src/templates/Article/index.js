@@ -12,7 +12,7 @@ export default function Article({ data }) {
       <SEO title="Home" />
       <Helmet title={`${post.frontmatter.title}`} />
       <div className="article">
-        <div class="article-meta">
+        <div className="article-meta" >
           <h3>{post.frontmatter.author}</h3>
           <h2>{post.frontmatter.title}</h2>
         </div>
