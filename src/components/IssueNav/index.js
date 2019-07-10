@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import { StaticQuery, graphql } from "gatsby";
 
-import Sketch, { setData } from './Sketch';
-import p5 from 'p5';
+import { createSketch } from './Sketch';
 
 import style from './style.module.css';
 
@@ -14,9 +13,7 @@ class IssueNav extends Component {
   }
 
   componentDidMount() {
-    // this.sketch = new Sketch(this.p5Node.current);
-    setData(this.props.nodes);
-    this.sketch = new p5(Sketch, this.p5Node.current);
+    this.sketch = createSketch(this.p5Node.current, this.props.nodes);
   }
 
   render() {

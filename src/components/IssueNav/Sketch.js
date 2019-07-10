@@ -10,10 +10,6 @@ let centerX = 0;
 let centerY = 0;
 let data = [];
 
-export const setData = (_data) => {
-	data = _data;
-};
-
 const Sketch = (sketch) => {
 	sketch.setup = () => {
 		sketch.loadFont(fontURL, (fontRef) => {
@@ -85,56 +81,9 @@ const Sketch = (sketch) => {
 	};
 }
 
-export default Sketch;
+export const createSketch = (node, _data) => {
+	data = _data;
+	const p5 = require('p5');
+	return new p5(Sketch, node);
+}
 
-// export default class Sketch extends p5 {
-
-// 	constructor(node) {
-// 		super(() => {}, node);
-// 		console.log('constructor');
-// 	}
-
-// 	setup = () => {
-// 		this.loadFont(fontURL, (font) => {
-// 			this.createCanvas(this.windowWidth, this.windowHeight);
-// 			this.font = font;
-// 			this.textSize(22);
-// 			this.textFont(this.font);
-
-// 			this.centerX = this.width * 0.5;
-// 			this.centerY = this.height + 300;
-// 			const maxRadius = this.height * 0.7;
-// 			const radiusStep = maxRadius / data.length;
-
-// 			this.rings = data.map((val, i) => new Ring(
-// 				this,
-// 				this.centerX,
-// 				this.centerY,
-// 				MIN_RADIUS + (radiusStep * (data.length - i - 1)),
-// 				val.author.toUpperCase(),
-// 				this.lerpColor(this.color(26, 22, 82), this.color(238), (data.length - i) / data.length),
-// 			));
-// 		});
-// 	};
-
-// 	draw = () => {
-// 		this.background(255);
-
-// 		this.stroke(138);
-// 		this.noFill();
-
-// 		this.push();
-// 		this.rings.forEach((ring) => {
-// 			ring.update();
-// 			ring.draw();
-// 		});
-// 		this.pop();
-// 	};
-
-// 	mousePressed = () => {
-// 	}
-
-// 	windowResized = () => {
-// 		this.resizeCanvas(this.windowWidth, this.windowHeight);
-// 	};
-// }
