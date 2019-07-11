@@ -54,3 +54,25 @@ Head in need of a pillow.
 The wife could tell when the girl had been in the fridge. The girl liked what smelled, foods the wife had bought but not realized were so pungent. She “wore” her ex-boyfriend. He was an artist and had done a limited edition line for a small fashion house. At the time, she told people, I only wear Christopher Owens and Dior. Fashion house. 
 
 Peanut butter. Marmite. Gorgonzola. From behind the bookshelf divider, the wife watched the girl peel off a bit of toenail and put it in her mouth. If you heard the Jurassic Park theme song in two boys’ voices, then the son had a friend over. 
+  
+---
+
+
+<span class="bio1">
+
+###### ABOUT THE AUTHOR  
+**Sarah Blakley-Cartwright** is a New York Times bestselling author, Associate Editor of A Public Space, and Publishing Director of the Chicago Review of Books.
+
+**Instagram**: [@sarblakcart](https://www.instagram.com/sarblakcart/)  
+**Twitter**: [@sarblakcart](https://twitter.com/sarblakcart)
+
+</span>
+
+<span class="bio2">
+
+###### ABOUT THE ART  
+_Untitled_ is a collection of digital artworks by [Amy Fang](https://www.amyfang.design)
+
+**Website**: [https://www.amyfang.design](https://www.amyfang.design)  
+**Instagram**: [@m00n_cake](https://www.instagram.com/m00n_cake/)  
+</span>

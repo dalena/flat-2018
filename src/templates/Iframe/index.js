@@ -2,6 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import { graphql } from "gatsby";
 import SEO from "../../components/SEO";
+import Footerart from "../../components/FooterArt";
 import "../../templates/Iframe/style.css";
 
 export default function Artwork({ data }) {
@@ -10,10 +11,12 @@ export default function Artwork({ data }) {
         <>
             <SEO title="Home" />
             <Helmet title={`${post.frontmatter.title}`} />
+            <Footerart></Footerart>
             <div
                 className="iframe-cont"
                 dangerouslySetInnerHTML={{ __html: post.html }}
             />
+            
 
         </>
 

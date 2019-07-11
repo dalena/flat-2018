@@ -27,13 +27,19 @@ export default function Artwork({ data }) {
           <p>
             <a target="none" href={post.frontmatter.btn}>
               <button>
-              Read {post.frontmatter.title}
-            </button>
+                {post.frontmatter.btntxt}
+              </button>
             </a>
           </p>
         </div>
-
+        <div className="art-bottom">
+          <div
+            className="art-bios"
+            dangerouslySetInnerHTML={{ __html: post.frontmatter.bios }}
+          />
+        </div>
       </div>
+
 
     </Layout >
 
@@ -49,6 +55,8 @@ export const postQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         btn
+        btntxt
+        bios
         title
         author
         image {

@@ -55,12 +55,12 @@ Today, the signs of the real are the real. The superflatness of the internet has
 
 ---
 
-<span class="bio">  
+<span class="bio1">  
 
 ###### ABOUT THE AUTHOR  
 
-[**Sarah Hwang**](artjournalbysh.wordpress.com) loves (and sometimes hates) art and writing about art. She especially enjoys writing about graffiti and street art, and other narratives that transgress the institution of Art. She has a MA in art history and served as an advisory board member of the Portland Street Art Alliance. She was also one of the first participants of Art Practical’s Art Publishing Residency and has published other essays and reviews.  <br/><br/>
-Instagram: [@theoriginalhwangsta](https://www.instagram.com/theoriginalhwangsta/)  
-Email: [sarah.hwang89@gmail.com](sarah.hwang89@gmail.com)
+**Sarah Hwang** loves (and sometimes hates) art and writing about art. She especially enjoys writing about graffiti and street art, and other narratives that transgress the institution of Art. She has a MA in art history and served as an advisory board member of the Portland Street Art Alliance. She was also one of the first participants of Art Practical’s Art Publishing Residency and has published other essays and reviews.  <br/><br/>
+**Website**: [artjournalbysh.wordpress.com](artjournalbysh.wordpress.com)  
+**Instagram**: [@theoriginalhwangsta](https://www.instagram.com/theoriginalhwangsta/)  
 
 </span>

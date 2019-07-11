@@ -51,11 +51,11 @@ This restructuring creates a digital fossil of a photograph, completely changing
 
 ---
 
-<span class="bio">
+<span class="bio1">
 
-###### ABOUT THE AUTHOR & THE ARTIST  
-Agnese Cebere is an artist, dancer, and filmmaker based in Eugene, Oregon.  Originally from Latvia, Agnese grew up in Sweden, and earned her BA in Intermedia Art at Edinburgh College of Art, Scotland. She recently finished her MA in Media Studies at The New School, New York, where her research has focused on embodiment and technology as they converge in screendance. Her filmmaking experience lies in live performance capture and editing, as well as experimental video art.  
+###### ABOUT THE AUTHOR &  ARTIST  
+**Agnese Cebere** is an artist, dancer, and filmmaker based in Eugene, Oregon.  Originally from Latvia, Agnese grew up in Sweden, and earned her BA in Intermedia Art at Edinburgh College of Art, Scotland. She recently finished her MA in Media Studies at The New School, New York, where her research has focused on embodiment and technology as they converge in screendance. Her filmmaking experience lies in live performance capture and editing, as well as experimental video art.  
   
-Instagram: [@tacit_swarming](https://www.instagram.com/tacit_swarming)  
-Website: [agnesecebere.com](https://agnesecebere.com)
+**Website**: [agnesecebere.com](https://agnesecebere.com)  
+**Instagram**: [@tacit_swarming](https://www.instagram.com/tacit_swarming)  
 </span>

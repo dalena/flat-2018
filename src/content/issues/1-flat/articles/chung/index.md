@@ -169,7 +169,7 @@ Before wrapping up, we would like to add some residual questions that should (or
 </span>
 
 ---
-<span class="bio">
+<span class="bio1">
 
 ###### ABOUT THE ARTIST  
 **Mira C** is a transdisciplinary something based in San Francisco. They write and draw about rumors, speculations, drama, and hopes surrounding a candidate of disruptive innovation. 

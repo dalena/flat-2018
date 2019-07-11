@@ -108,11 +108,23 @@ Jenna Wortham, "Finding Inspiration for Art in the Betrayal of Privacy." *New Yo
 
 ---
 
-<span class="bio">
+<span class="bio1">
 
-###### ABOUT THE ART & THE ARTIST  
-_Improvisation_ is a collection of five 17-inch by 22-inch posters and an experimental animation video which captured the improvised dances between the artist, [Chris Kim](www.chkartdesign.com), and 4 other people.  
+###### ABOUT THE AUTHOR  
+**Peter Polack** is a PhD student in the Department of Information Studies at UCLA, where he studies the implications of computation for politics of representation and autonomy. His research concerns the development of experimental media artifacts that inform or overturn how we understand computational paradigms of governance, whether this understanding is informed by direct experience, through artworks, or through theoretical argumentation. He holds an M.S. in Computer Science and a B.S. in Computational Media from Georgia Tech. 
+
+**Website**: [http://interpolack.com](http://interpolack.com)  
+**Instagram**: [@interpolack](https://www.instagram.com/interpolack/)  
+**Twitter**: [@interpolack](https://twitter.com//interpolack/)  
+
+</span>  
+
+<span class="bio2">
+
+###### ABOUT THE ART  
+_Improvisation_ is a collection of five 17-inch by 22-inch posters and an experimental animation video which captured the improvised dances between the artist, **Chris Kim**, and 4 other people.  
   
-Instagram: [@i.am.chk](https://www.instagram.com/i.am.chk/)  
-Website: [www.chkartdesign.com](www.chkartdesign.com)
-</span>
+**Website**: [www.chkartdesign.com](www.chkartdesign.com)  
+**Instagram**: [@i.am.chk](https://www.instagram.com/i.am.chk/)  
+</span>  
+

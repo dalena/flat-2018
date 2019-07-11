@@ -34,7 +34,7 @@ p {
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 45px;
   font-weight: normal;
 }
 
@@ -144,20 +144,26 @@ header {
 
 .nav li {
   list-style: none;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 52px;
-  padding-left: 20px;
+  padding-left: 30px;
+  letter-spacing: 3px;
 }
 
 .nav li a {
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transition-delay: 0.05s;
   text-decoration: none;
   text-transform: uppercase;
+  padding: 10px 20px;
 }
 
 .nav li a:hover,
 .nav li a:active {
   text-decoration: none;
   color: #1A1851;
+  background: pink;
 }
 
 
@@ -172,13 +178,22 @@ header {
 }
 
 .page-cont {
-  height: 550px;
-  display: flex;
-  border: 1px solid #1A1851;
+  /* height: 550px; */
+  /* display: flex; */
+  /* border: 1px solid #1A1851;
   overflow-x: hidden;
   overflow-y: scroll;
-  padding: 20px 60px;
+  padding: 20px 60px; */
+}
 
+.page-cont {
+  font-family: 'Mukta', sans-serif;
+  text-align: justify;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  /* grid-gap: 3vw; */
+  margin: 0 auto;
 }
 
 .flexbox-slider {
@@ -373,6 +388,7 @@ main {
 .article-meta {
   grid-column: 1 / 4;
   grid-row: 1 / 2;
+  margin-bottom: 20px;
 }
 
 .article-text {
@@ -383,11 +399,11 @@ main {
 
 .article-text a {
   text-decoration: none;
-  color: #1A1851;
+  color: #000;
 }
 
 .article-text a:visited {
-  color: #1A1851;
+  color: #000;
 }
 
 .article-text sup {
@@ -443,13 +459,32 @@ main {
   color: #000;
 }
 
-.article-text span.bio {
+.article-text span.bio1 {
   display: block;
   padding: 28px;
-  background: #fff3be;
+  background: #e7f2ff;
   font-family: 'Mukta', sans-serif;
   font-size: 18px;
-  margin-top: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.article-text span.bio1 a {
+  text-decoration: underline;
+}
+
+.article-text span.bio2 {
+  display: block;
+  padding: 28px;
+  background: #fff8db;
+  font-family: 'Mukta', sans-serif;
+  font-size: 18px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.article-text span.bio2 a {
+  text-decoration: underline;
 }
 
 
@@ -481,6 +516,33 @@ main {
 .art-text p {
   line-height: 28px;
   font-size: 20px;
+}
+
+.art-bottom {
+  width: 100%;
+  background: #e7f2ff;
+  grid-column: 1/6;
+  margin-top: 50px;
+}
+
+.art-bios {
+  padding: 28px;
+  background: #e7f2ff;
+  font-family: 'Mukta', sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.art-bios h6 {
+  line-height: 38px;
+  font-size: 21px;
+  margin: 0;
+}
+
+.art-bios a {
+  margin: 0;
+  color: #000;
+
 }
 
 .article .btn {
@@ -519,6 +581,32 @@ footer {
   padding-bottom: 5vh;
   grid-column: 2 / 4;
 }
+
+.footerArt {
+  position: fixed;
+  bottom: 1vh;
+  left: 3vw;
+}
+
+.footerArt a {
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transition-delay: 0.05s;
+  font-family: 'Mukta', sans-serif;
+  color: white;
+  letter-spacing: 8px;
+  text-shadow:
+    -1px -1px 0 #1A1851,
+    1px -1px 0 #1A1851,
+    -5px 5px 0 #1A1851,
+    1px 1px 0 #1A1851;
+  text-decoration: none;
+}
+
+.footerArt a:hover {
+  color: pink;
+}
+
 
 
 /* GATSBY FIXES */
@@ -597,8 +685,26 @@ footer {
     line-height: 24px;
   }
 
+  .art-bottom {
+    grid-column: 1/7;
+
+  }
+
+  .art-bios {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
   .article button {
     margin-top: 10px;
+  }
+  .page-cont{
+    text-align: justify;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    /* grid-gap: 3vw; */
+    margin: 0 auto;
   }
 }
 
@@ -613,15 +719,47 @@ footer {
     font-size: 24px;
     margin: 5px;
   }
+
   .article-text p {
     font-size: 18px;
     line-height: 26px;
   }
 
+  .art-right {
+    grid-column: 1/7;
+  }
+
+  .art-bottom {
+    grid-column: 1/7;
+
+  }
+
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 768px) {
+  .art-left {
+    grid-row: 2 / 3;
+    grid-column: 1 / 3;
+
+  }
+
+  .art-right {
+    grid-row: 2 / 3;
+    grid-column: 3 / 7;
+
+  }
+
+  .art-right p {
+    margin: 0;
+    padding-left: 60px;
+  }
+
+  .art-text p {
+    line-height: 28px;
+    font-size: 20px;
+  }
+}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {}

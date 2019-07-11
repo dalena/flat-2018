@@ -43,3 +43,13 @@ As artworkers we need to recreate our narrative of the self by cultivating diffe
 <sup>6</sup> Han, Byung-Chul. Psychopolitics Neoliberalism and New Technologies of Power. Verso, 2017, p. 70.</br>  
 <sup>7</sup> Raqs Media Collective, It’s Written Because It’s Written, CA2M . Centro de Arte Dos de Mayo. MUAC . Museo Universitario Arte Contemporáneo, UNAM. Fundación PROA, p. 145.   
 </span>
+
+<span class="bio1">
+
+###### ABOUT THE AUTHOR  
+**Gelare Khoshgozaran** گلاره خوشگذران is an interdisciplinary artist and writer working across the mediums of video, performance, installation and writing. Born and raised in Tehran and living in Los Angeles, she envisions the city as an imaginary space between asylum as “ the protection granted by a nation to someone who has left their native country as a political refugee” and the more dated meaning of the word, “ an institution offering shelter and support to people who are mentally ill.” Her work has been exhibited in solo and group exhibitions at the Queens Museum of Art, Museo Ex-Teresa Arte Actual, Malmö Konsthall, LACE, The LA Municipal Art Gallery, Southern Exposure, Human Resources, Interstate Projects and Thomas Erben Gallery, among others. Gelare was the recipient of the 2015 California Community Foundation Fellowship for Visual Artists, the 2015 Creative Capital | Andy Warhol Foundation Arts Writers Grant, and the 2016 Rema Hort Mann Foundation Award for Emerging Artists. She is the co-founder and editor of contemptorary.org.
+
+**Website**: [https://gelarekhoshgozaran.com/](https://gelarekhoshgozaran.com/)  
+
+</span>  
+

@@ -45,10 +45,18 @@ I am in between here and there, constantly pointing at something.
 
 #### [ch-greenhouse.me](ch-greenhouse.me) 
 
+---
 
-<a href="http://minkyungchoi.com" target="_blank"><strong>Minkyung Choi</strong></a> is a visual artist, currently based in Seoul. Motivated by the questions surrounding representation, Choi repurposes mass-media culture and experiments with forms of performances and digital technologies to explore the complexity of desiring subjects. Choi has screened and exhibited in venues around the globe including the 18th Seoul International NewMedia Festival, the 13th IAWRT Asian Women’s Film Festival (New Dehli, India), LACE (Los Angeles Contemporary Exhibition) among others. Choi was a recipient of the Emerging Artist Grant of Seoul Foundation for Arts and Culture and took part in artist-residencies at Gyeonggi Creation Center and Pier 2 residency in Kaohsiung, Taiwan.
-<br><br>
-Instagram: <a href="https://www.instagram.com/channelgreenhouse/" target="_blank">@channelgreenhouse</a>
-<br>
-Website: <a href="http://minkyungchoi.com" target="_blank">http://minkyungchoi.com</a>
-</p>
+
+<span class="bio1">
+
+###### ABOUT THE AUTHOR  
+**Minkyung Choi** is a visual artist, currently based in Seoul. Motivated by the questions surrounding representation, Choi repurposes mass-media culture and experiments with forms of performances and digital technologies to explore the complexity of desiring subjects. Choi has screened and exhibited in venues around the globe including the 18th Seoul International NewMedia Festival, the 13th IAWRT Asian Women’s Film Festival (New Dehli, India), LACE (Los Angeles Contemporary Exhibition) among others. Choi was a recipient of the Emerging Artist Grant of Seoul Foundation for Arts and Culture and took part in artist-residencies at Gyeonggi Creation Center and Pier 2 residency in Kaohsiung, Taiwan. 
+
+**Website**: [http://minkyungchoi.com](http://minkyungchoi.com)  
+**Instagram**: [@channelgreenhouse](https://www.instagram.com/channelgreenhouse/)  
+**Twitter**: [@interpolack](https://twitter.com//interpolack/)  
+
+</span>  
+
+

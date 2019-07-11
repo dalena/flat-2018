@@ -6,6 +6,8 @@ bgPatNum: "3"
 author: "Erica Young"
 image: "imgYoung1.gif"
 btn: "/flat/young/room"
+btntxt: "Play Room"
+bios: "<h6>ABOUT THE ARTIST</h6></br><b>Erica Young</b></br></br> ucla design | media arts 2019 +television film digital media minor animation / new media / video & sound + THE OCCASIONAL STATISTICAL ANALYSIS</br></br><b>Website:</b> <a href='https://cargocollective.com/xingxingart'>https://cargocollective.com/xingxingart</a>"
 ---
 
 
