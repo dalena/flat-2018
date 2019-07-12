@@ -181,7 +181,7 @@ header {
 .nav li:nth-child(1) a:active {
   background-position: center;
   text-decoration: none;
-  background-image: url('../../images/s3.svg');
+  background-image: url('../../images/s1.svg');
   background-size: 60px;
 }
 
@@ -197,7 +197,7 @@ header {
 .nav li:nth-child(3) a:active {
   background-position: center;
   text-decoration: none;
-  background-image: url('../../images/s1.svg');
+  background-image: url('../../images/s2.svg');
   background-size: 60px;
 }
 
