@@ -77,7 +77,7 @@ export default class Ring {
 
 
 	drawText = () => {
-		this.sketch.stroke(0);
+		this.sketch.noStroke();
 		this.sketch.fill(255);
 
 		const circ = 2 * this.sketch.PI * this.radius;

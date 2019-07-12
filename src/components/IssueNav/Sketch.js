@@ -30,13 +30,13 @@ const Sketch = (sketch) => {
 				MIN_RADIUS + (radiusStep * (data.length - i - 1)),
 				val.author.toUpperCase(),
 				val.path,
-				sketch.lerpColor(sketch.color(26, 22, 82), sketch.color(238), (data.length - i) / data.length),
+				sketch.lerpColor(sketch.color(26, 22, 82), sketch.color(217, 216, 231), (data.length - i) / data.length),
 			));
 		});
 	};
 
 	sketch.draw = () => {
-		sketch.background(255);
+		sketch.background(245, 245, 248);
 
 		sketch.stroke(138);
 		sketch.noFill();
