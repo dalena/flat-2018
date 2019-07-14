@@ -23,7 +23,7 @@
 html {
   background-color: rgb(245, 245, 248) !important;
   /* color: #e8e8f1; */
-  background: url('../../images/sbg7.svg') no-repeat 55vw 30vh fixed;
+  /* background: url('../../images/sbg7.svg') no-repeat 55vw 30vh fixed; */
   /* -webkit-background-size: 60vw;
   -moz-background-size: 60vw;
   -o-background-size: 60vw;
@@ -693,4 +693,27 @@ footer {
     grid-column: 1/6;
 
   }
+}
+
+.mendelsohn-text {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.mendelsohn-timeline {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.mendelsohn-dates {
+  list-style: none;
+  padding: 0;
+}
+
+.mendelsohn-dates li {
+  margin-bottom: 2em;
+}
+
+.mendelsohn-timeline .mendelsohn-col {
+  padding: 20px;
 }
