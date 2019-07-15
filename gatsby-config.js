@@ -49,7 +49,8 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 1600,
               wrapperStyle: `max-width: none !important;`,
-              withWebp: true
+              withWebp: true,
+              linkImagesToOriginal: false
             },
           },
         ],

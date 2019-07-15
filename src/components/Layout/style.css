@@ -696,13 +696,13 @@ footer {
 }
 
 .mendelsohn-text {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr; */
 }
 
-.mendelsohn-timeline {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+.mendelsohn-footnotes {
+  font-size: 0.9em;
+  padding-left: 12px;
 }
 
 .mendelsohn-dates {
