@@ -5,15 +5,11 @@ author: "Mira C"
 type: "article"
 bgPatNum: "5"
 ---
-![](/artwork/imgChung1.png)[](#)
+<div style="max-width: 637px; margin: auto;">
+    <img src="artwork/imgChung1.png" alt="A side-by-side comparison of Portrait of Edmond de Belamy (2018) and example outputs from Barrat's open source code." />
+</div>
 ##### A side-by-side comparison of Portrait of Edmond de Belamy (2018) and example outputs from Barrat's open source code.
 ##### Source: A screenshot from Robbie Barrat's Twitter account.
-
-### Abstract
-
-This essay traces a series of unanswered questions that was emerged at the auction of Portrait of Edmond de Belamy (2018), an artwork made by a deep learning model "borrowing" codes from an open source project. Later, a plagiarism claim was made by the open source project owner. Revisiting elements from the post-modernists analysis on cultural consumption, Otaku: database animals by Azuma Hiroki, we first examine what is the flattened "database culture" and what is the changed relationship between a "copy" and an original work. Then we examine the collision of a gift economy and a commercial economy within this flattened landscape: the prevalence of the database-centric remix culture and the advent of application-ready deep learning image generators. The technology in the spotlight is GAN (generative adversarial network) and its representation in the current art market is also briefly examined. The essay concludes by asking additional questions regarding the delegation of labor and responsibility.
-
-#### ***
 
 ### Freeware and $432,500
 
@@ -55,8 +51,14 @@ In this sense fanart and GAN images are not simple "credible copies of existing 
 
 ### Database Animals
 
-![](/artwork/imgChung2.jpg)[](#)
-![](/artwork/imgChung3.jpg)[](#)
+<div style="max-width: 974px; max-height: 80vh; margin: auto;">
+    <img src="artwork/imgChung2.jpg" alt="The patterns of cultural consumption in the modernist world" />
+</div>
+<br />
+<div style="max-width: 960px; max-height: 80vh; margin: auto;">
+    <img src="artwork/imgChung3.jpg" alt="versus in the new database-centric world (bottom: a model the Grand Non-Narrative)." />
+</div>
+
 ##### The patterns of cultural consumption in the modernist world (top: a model with the Grand Narrative) versus in the new database-centric world (bottom: a model the Grand Non-Narrative).
 ##### Source: Azuma, Hiroki. Otaku: Japan's database animals. U of Minnesota Press, 2009.
 
@@ -91,7 +93,10 @@ The art market on the other hand, original-copy horizontality is prohibited from
 
 Ever since the first implementation of GAN for image generation, many embarked an exploration into the endless horizon of images that GAN could immediately weave out. These are images, some say, that had "never existed": anime girls, celebrity faces, fashion models, fashion itself, famous painting, ramen, weird animals, strange buildings, unfamiliar landscape, barely illegible symbols...
 
-![](/artwork/imgChung4.jpg)[](#)
+<div style="max-width: 632px; margin: auto;">
+    <img src="artwork/imgChung4.jpg" alt="A visualization of the first convolutional kernel layer" />
+</div>
+
 ##### A visualization of the first convolutional kernel layer learned by a deep computer vision applications, ImageNet (2012). This is an example of the lowest level visual units used in major computer vision and image construction applications. Barrat's DCGAN (deep convolutional GAN) system also relies on convolutional layers.
 ##### Source: Alex Krizhevsky (author's permission to reproduce) 17
 
@@ -108,7 +113,10 @@ Since the dawn of mechanical production, technique and labor associated with an 
 
 There seems to be a reason why beneficiaries of GAN and creativity, who rarely comes from a background of cultural production (regardless of fine arts, design, or subculture), love to endorse creativity as curation . If we agree to reduce the whole art-making process into "a pipeline," any person 19 (without production skills and detached from the socio-historical context) could gladly take over the curator/editor (or even more reduced form, an explorer) role in the system while delegating the significant portion of the art-making to their very talented toolkit. This is a horizontality that can be enjoyable for "any person" and surely will accelerate a certain type of art production.
 
-![](/artwork/imgChung5.jpg)[](#)
+<div style="max-width: 413px; margin: auto;">
+    <img src="artwork/imgChung5.jpg" alt="Pisa from Photo Opportunities by Corinne Vionnet" />
+</div>
+
 ##### Pisa from Photo Opportunities by Corinne Vionnet (2005 - Ongoing).
 ##### Source: "Photo Opportunities: An Interview with Artist Corinne Vionnet" 20
 
@@ -120,7 +128,9 @@ The motivation for statistical methods and machine learning is our curiosity and
 
 Trimming away the drama, the core labor of Belamy project lies on connecting this specific dataset with the context of the Christie's art auction. The fact that GAN was able to synthesize a somewhat recognizable image implies the abundance of samples, massive enough to adequately feed a data-hungry deep learning model. We think comparing Belamy with Photo Opportunities by artist Corinne Vionnet here will be helpful. Photo Opportunities is a series of composite images made by collecting and layering online tourist photos. The blurred images of famous landmarks elegantly show how the individual perception by its visitors converge and then deviate, utilizing the simplest and yet powerful statistical method: finding an average.
 
-![](/artwork/imgChung6.jpg)[](#)![](/artwork/imgChung7.jpg)[](#)
+<div style="max-height: 700px; margin: auto;">
+    <img src="artwork/imgChung6b.jpg" alt="A composite image of ten 17th-19th century European male portraits from WikiArt. (Right) Portrait of Edmond de Belamy (2018)" />
+</div>
 
 ##### (Left) A composite image of ten 17th-19th century European male portraits from WikiArt. (Right) Portrait of Edmond de Belamy (2018).
 ##### Source: (Left) the author of the article. (Right) Wikimedia (public domain).

@@ -10,8 +10,67 @@ author: "Asa Lipman Mendelsohn"
 ---
 
 <div class="mendelsohn-bg">
-    <img src="artwork/DSC01499.JPG" alt="">
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01499.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01493.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01504.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01499.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01493.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01504.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01499.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01493.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01504.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01499.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01493.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01504.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01499.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01493.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01504.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01499.JPG" alt="">
+    </div>
+    <div class="mendelsohn-bg-img"></div>
+    <div class="mendelsohn-bg-img">
+        <img src="artwork/DSC01493.JPG" alt="">
+    </div>
+
 </div>
+
 <div class="mendelsohn-text">
     <p>Dear Sayak, I wonder what you mean when you write that,</p>
     <blockquote>
@@ -33,7 +92,7 @@ author: "Asa Lipman Mendelsohn"
             “Right now, federal civil rights law prohibits discrimination on the basis of sex. The courts have long understood that that includes discrimination against trans people and anyone who departs from sex stereotypes. So this is not new. <em>The New York Times</em> was incorrect in saying that the Obama administration, quote-unquote, ‘loosened’ the definition of gender or sex. That is not what happened. The law has been clear for decades. The Obama administration offered interpretive guidance consistent with that. The effort now is to offer new interpretation that will conflict with the federal law as interpreted by the courts. And so, this is not something that the Trump administration can do single-handedly, but it is an effort to exclude trans people from civil rights protections. And we have to stay vigilant.
         </p>
         <p>
-            [...] I have long been very critical of <em>The New York Times’</em> trans coverage. And that’s true of yesterday’s article, as well. I think it was an incendiary headline designed to get clicks. It absolutely is true that trans people are under attack, but the idea that trans people’s existence is up for debate is precisely the paradigm that <em>The New York Times</em> has fueled over the years of its coverage, suggesting that there are two sides to an argument about whether trans people exist.
+            ...I have long been very critical of <em>The New York Times’</em> trans coverage. And that’s true of yesterday’s article, as well. I think it was an incendiary headline designed to get clicks. It absolutely is true that trans people are under attack, but the idea that trans people’s existence is up for debate is precisely the paradigm that <em>The New York Times</em> has fueled over the years of its coverage, suggesting that there are two sides to an argument about whether trans people exist.
         </p>
         <p>
             Trans people exist, full stop. It is not up for debate... It is not an argument about whether people exist. We exist. And the more we have a ideological debate about whether or not it’s moral or ethical to recognize the existence of trans people, the more we’re going to embolden the Trump administration and other state-level government actors to act to take away our rights. This isn’t a debate” (Chase Strangio, 2018).
@@ -59,9 +118,6 @@ author: "Asa Lipman Mendelsohn"
     </p>
 </div>
 
-<div class="mendelsohn-bg">
-    <img src="artwork/DSC01493.JPG" alt="">
-</div>
 <ol class="mendelsohn-footnotes">
     <li>
         <ol class="mendelsohn-dates">
@@ -69,7 +125,7 @@ author: "Asa Lipman Mendelsohn"
                 <strong>1995</strong>: The city of San Francisco passes its first anti-discrimination ordinance specifically protecting the civil liberties of transgender people. This is the same year that “many formerly ‘gay and lesbian’ or ‘gay, lesbian, and bisexual’ organizations and events [begin] to add the T to their names.” Trans allies among the Lesbian Avengers at the Michigan Womyn’s Music Festival invite Camp Trans activists to enter into dialogue about the transphobic policies and attitudes upheld by the Womyn’s Festival (Susan Stryker, 2016).
             </li>
             <li>
-                <strong>2003</strong>: The state of California adds gender identity to the list of identities protected by state anti-discrimination law. Sodomy laws are repealed in the Supreme Court ruling *Lawrence v. Texas* — overturning the case *Bowers v. Hardwick*, which upheld a Georgia law criminalizing oral and anal sex in private between consenting adults (which had passed 5-to-4 votes in 1986).
+                <strong>2003</strong>: The state of California adds gender identity to the list of identities protected by state anti-discrimination law. Sodomy laws are repealed in the Supreme Court ruling <strong>Lawrence v. Texas</strong> — overturning the case <strong>Bowers v. Hardwick</strong>, which upheld a Georgia law criminalizing oral and anal sex in private between consenting adults (which had passed 5-to-4 votes in 1986).
             </li>
             <li>
                 <strong>2009</strong>: The Matthew Shepard and James Boyd Jr. Hate Crimes Prevention Act adds gender identity and/or expression as a protected category to federal hate crime law. The Human Resources Administration (HRA) Review Committee creates a grassroots organizing campaign to raise awareness and build public pressure demanding that HRA change its policies and practices, focusing on collective action by low-income trans people of color. New policy is won—though it’s a “watered down, thin version of the initially proposed ‘Best Practices’ document drafted by the 2005 committee” (Dean Spade, 2011).
