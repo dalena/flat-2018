@@ -8,6 +8,7 @@ bgPatNum: "5"
 <div style="max-width: 637px; margin: auto;">
     <img src="artwork/imgChung1.png" alt="A side-by-side comparison of Portrait of Edmond de Belamy (2018) and example outputs from Barrat's open source code." />
 </div>
+
 ##### A side-by-side comparison of Portrait of Edmond de Belamy (2018) and example outputs from Barrat's open source code.
 ##### Source: A screenshot from Robbie Barrat's Twitter account.
 
@@ -58,6 +59,7 @@ In this sense fanart and GAN images are not simple "credible copies of existing 
 <div style="max-width: 960px; max-height: 80vh; margin: auto;">
     <img src="artwork/imgChung3.jpg" alt="versus in the new database-centric world (bottom: a model the Grand Non-Narrative)." />
 </div>
+<br />
 
 ##### The patterns of cultural consumption in the modernist world (top: a model with the Grand Narrative) versus in the new database-centric world (bottom: a model the Grand Non-Narrative).
 ##### Source: Azuma, Hiroki. Otaku: Japan's database animals. U of Minnesota Press, 2009.
