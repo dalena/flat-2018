@@ -261,7 +261,6 @@ main {
 .article-text a {
   text-decoration: none;
   border-bottom: 1px solid rgba(26, 24, 81, 0.7);
-  display: inline-block;
   color: rgba(26, 24, 81, 0.7);
 }
 
@@ -721,8 +720,6 @@ footer {
 }
 
 .mendelsohn-bg {
-  display: flex;
-  flex-wrap: wrap;
   position: absolute;
   left:0;
   top: 180px;
@@ -731,8 +728,12 @@ footer {
   opacity: 0.3;
   display: none;
 }
+
 .mendelsohn-bg-img {
-  width: 33.33vw;
-  height: 24vw;
-  overflow: hidden;
+  width: 100%;
+}
+
+.article--flat-mendelsohn {
+  background-image: url(../../content/issues/1-flat/articles/mendelsohn/artwork/combined.jpg);
+  background-size: cover;
 }
