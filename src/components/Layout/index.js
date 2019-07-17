@@ -35,7 +35,7 @@ const Layout = ({ path, children }) => (
     `}
     render={data => (
       <>
-        <div className="pre-wrapper">
+        <div className={`pre-wrapper article-path-${path.replace(/\//g, '-')}`}>
           {/* <div className="header-wrapper"> */}
             <Header siteTitle={data.site.siteMetadata.title} isPost={path != null ? true : false} />
           {/* </div> */}

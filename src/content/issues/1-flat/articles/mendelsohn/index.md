@@ -9,68 +9,6 @@ description: "A short story"
 author: "Asa Lipman Mendelsohn"
 ---
 
-<div class="mendelsohn-bg">
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01499.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01493.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01504.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01499.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01493.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01504.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01499.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01493.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01504.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01499.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01493.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01504.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01499.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01493.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01504.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01499.JPG" alt="">
-    </div>
-    <div class="mendelsohn-bg-img"></div>
-    <div class="mendelsohn-bg-img">
-        <img src="artwork/DSC01493.JPG" alt="">
-    </div>
-
-</div>
-
 <div class="mendelsohn-text">
     <p>Dear Sayak, I wonder what you mean when you write that,</p>
     <blockquote>
@@ -159,10 +97,6 @@ author: "Asa Lipman Mendelsohn"
         </ol>
     </li>
 </ol>
-<div class="mendelsohn-bg">
-    <img src="artwork/DSC01504.JPG" alt="">
-</div>
-
 
 ---
 <span class="bio1">

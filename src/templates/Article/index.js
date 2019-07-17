@@ -11,7 +11,7 @@ export default function Article({ data }) {
     <Layout path={post.frontmatter.path}>
       <SEO title="Home" />
       <Helmet title={`${post.frontmatter.title}`} />
-      <div className={`article article-path-${post.frontmatter.path.replace(/\//g, '-')}`}>
+      <div className='article'>
         <div className="article-meta" >
           <h3>{post.frontmatter.author}</h3>
           <h2>{post.frontmatter.title}</h2>

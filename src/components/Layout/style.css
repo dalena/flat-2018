@@ -719,21 +719,9 @@ footer {
   padding: 20px;
 }
 
-.mendelsohn-bg {
-  position: absolute;
-  left:0;
-  top: 180px;
-  width: 100vw;
-  z-index: -1;
-  opacity: 0.3;
-  display: none;
-}
-
-.mendelsohn-bg-img {
-  width: 100%;
-}
-
-.article--flat-mendelsohn {
+.article-path--flat-mendelsohn {
   background-image: url(../../content/issues/1-flat/articles/mendelsohn/artwork/combined.jpg);
   background-size: cover;
+  background-position: 0 120px;
+  background-repeat: no-repeat;
 }
