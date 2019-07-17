@@ -197,7 +197,7 @@ header {
 .nav li:nth-child(3) a:active {
   background-position: center;
   text-decoration: none;
-  background-image: url('../../images/s2.svg');
+  background-image: url('../../images/s3.svg');
   background-size: 60px;
 }
 
@@ -332,9 +332,6 @@ main {
   margin-bottom: 50px;
 }
 
-.article-text span.bio1 a {
-  text-decoration: underline;
-}
 
 .article-text span.bio2 {
   display: block;
@@ -346,9 +343,6 @@ main {
   margin-bottom: 50px;
 }
 
-.article-text span.bio2 a {
-  text-decoration: underline;
-}
 
 
 .art-left {
@@ -404,8 +398,11 @@ main {
 }
 
 .art-bios a {
-  margin: 0;
-  color: #000;
+
+    text-decoration: none;
+    border-bottom: 1px solid rgba(26, 24, 81, 0.7);
+    display: inline-block;
+    color: rgba(26, 24, 81, 0.7);
 
 }
 
