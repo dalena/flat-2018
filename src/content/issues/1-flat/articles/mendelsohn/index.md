@@ -3,8 +3,6 @@ title: "Ruin Porn: October 22, 2018"
 date: 2019-06-13T17:12:33.962Z
 path: "/flat/mendelsohn"
 type: "article"
-bgPatNum: "4"
-image: "DSC01499.JPG"
 description: "A short story"
 author: "Asa Lipman Mendelsohn"
 ---

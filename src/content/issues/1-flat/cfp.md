@@ -14,15 +14,15 @@ We invite proposals that specifically, broadly, or abstractly, address the theme
 
 The following types of original, new or previously published writing are welcome: works of theory, criticism, scholarly research, interviews, and reviews of or relating to the intersection of visual and conceptual art, technology, and/or media. Works of fiction and poetry will also be considered, but will not be the majority of accepted content. The following content types and corresponding word lengths are recommended:
 
-    Short Critical Essays - 1200 - 1500 words
-    Long Form Feature - 2500 - 10,000 words
-    Column / interview / review - under 1200 words
+* Short Critical Essays - 1200 - 1500 words
+* Long Form Feature - 2500 - 10,000 words
+* Column / interview / review - under 1200 words
 
 Other content types may be accepted. Direct questions to designmediaarts@ucla.edu with subject line “JOURNAL INQUIRY”
 Final Submissions should include:
 
-    Abstract (100 - 500 words)
-    Full plain text document (.rtf, .doc, .html, or google doc are preferred)
-    Author’s CV
-    Links to author’s site or other published relevant works
-    Any useful supporting images / media
+* Abstract (100 - 500 words)
+* Full plain text document (.rtf, .doc, .html, or google doc are preferred)
+* Author’s CV
+* Links to author’s site or other published relevant works
+* Any useful supporting images / media

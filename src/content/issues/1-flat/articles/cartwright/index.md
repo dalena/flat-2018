@@ -3,7 +3,6 @@ title: "THE HUSBAND, THE MAN"
 author: "Sarah Blakely Cartwright"
 path: "/flat/cartwright"
 type: "article"
-bgPatNum: "4"
 ---
 
 ![](/artwork/imgCartwrightFang1.jpg)[](#)
@@ -19,7 +18,7 @@ The husband liked to have lunch in the sun. The wife rearranged the flowers. Ste
 
 The girl moved to St. John’s Place. Someone stole the girl’s suitcase as she was moving. The girl spilled ink on her skirt and held the fabric up to the kitchen sink. The girl didn’t have many skirts. The girl likes the dates she's not supposed to eat out of the box in the refrigerator, and would like to get them for her aunt for Christmas, but she can't ask where they're from, because she’s not supposed to have eaten them.
 
-The man describes the dongle she is to pick up, first as a dongle and then as the piece that goes into the video’s “female.” The girl joins a team. There was going to be a housing inspection. The husband asked the girl to install a second smoke detector. 
+The man describes the dongle she is to pick up, first as a dongle and then as the piece that goes into the video’s “female.” The girl joins a team. There was going to be a housing inspection. The husband asked the girl to install a second smoke detector.
 
 ![](/artwork/imgCartwrightFang2.jpg)[](#)
 ##### Image courtesy of Amy Fang
@@ -34,7 +33,7 @@ The husband and wife had a vase shaped like a teardrop that held a single bloom.
 
 What's your job like? The girl asked the wife.
 Sometimes you could hear an airplane over the apartment.
-It's a job, the wife said. 
+It's a job, the wife said.
 
 The husband asked if there was something sexy about a fortune cookie.
 The girl wondered: Was there?
@@ -49,30 +48,30 @@ Beat.
 Wiped out.
 Spent.
 Hit the sack.
-Head in need of a pillow. 
+Head in need of a pillow.
 
-The wife could tell when the girl had been in the fridge. The girl liked what smelled, foods the wife had bought but not realized were so pungent. She “wore” her ex-boyfriend. He was an artist and had done a limited edition line for a small fashion house. At the time, she told people, I only wear Christopher Owens and Dior. Fashion house. 
+The wife could tell when the girl had been in the fridge. The girl liked what smelled, foods the wife had bought but not realized were so pungent. She “wore” her ex-boyfriend. He was an artist and had done a limited edition line for a small fashion house. At the time, she told people, I only wear Christopher Owens and Dior. Fashion house.
 
-Peanut butter. Marmite. Gorgonzola. From behind the bookshelf divider, the wife watched the girl peel off a bit of toenail and put it in her mouth. If you heard the Jurassic Park theme song in two boys’ voices, then the son had a friend over. 
-  
+Peanut butter. Marmite. Gorgonzola. From behind the bookshelf divider, the wife watched the girl peel off a bit of toenail and put it in her mouth. If you heard the Jurassic Park theme song in two boys’ voices, then the son had a friend over.
+
 ---
 
 
 <span class="bio1">
 
-###### ABOUT THE AUTHOR  
+###### ABOUT THE AUTHOR
 **Sarah Blakley-Cartwright** is a New York Times bestselling author, Associate Editor of A Public Space, and Publishing Director of the Chicago Review of Books.
 
-**Instagram**: [@sarblakcart](https://www.instagram.com/sarblakcart/)  
+**Instagram**: [@sarblakcart](https://www.instagram.com/sarblakcart/)
 **Twitter**: [@sarblakcart](https://twitter.com/sarblakcart)
 
 </span>
 
 <span class="bio2">
 
-###### ABOUT THE ART  
+###### ABOUT THE ART
 _To Bloom, To Fade_ is an animation inspired by Georgia O'Keeffe's body of work in which the female form is alluded to in flower imagery. The animation itself intimately explores a 3D modeled flower created by the artist. Through abstracting the physical form of a flower, a sense of ethereality and sensuality is found. The full video can be viewed [**here**](https://vimeo.com/341413621)
 
-**Website**: [https://www.amyfang.design](https://www.amyfang.design)  
-**Instagram**: [@m00n_cake](https://www.instagram.com/m00n_cake/)  
+**Website**: [https://www.amyfang.design](https://www.amyfang.design)
+**Instagram**: [@m00n_cake](https://www.instagram.com/m00n_cake/)
 </span>

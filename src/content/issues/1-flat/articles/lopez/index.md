@@ -3,7 +3,6 @@ title: "Spatial Disintegration"
 path: "/flat/lopez"
 author: "Karina Lopez"
 type: "article"
-bgPatNum: "2"
 ---
 
 

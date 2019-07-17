@@ -3,7 +3,6 @@ title: "Flat Vocality: Computation and the Violence of Representation in Art"
 path: "/flat/polack"
 author: "Peter Polack"
 type: "article"
-bgPatNum: "1"
 ---
 ![](/artwork/imgPolackKim1.jpg)[](#)
 ##### Improvisation (1/5), Chris Kim.

@@ -36,7 +36,6 @@ const IssueNavWrapped = (props) => (
                             title
                             path
                             author
-                            bgPatNum
                             image {
                                 publicURL
                             }

@@ -3,7 +3,6 @@ title: "Interview: David Valentine on the Possibility of Human Settlement in Spa
 path: "/flat/drake"
 author: "Sara Drake"
 type: "article"
-bgPatNum: "1"
 ---
 
 ![](/artwork/imgDrakeHua1.png)[](#)

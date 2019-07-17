@@ -3,7 +3,6 @@ title: "Decision-Making, Delegated, Art-Making: AI and Art, A.D. 2019"
 path: "/flat/mira-c"
 author: "Mira C"
 type: "article"
-bgPatNum: "5"
 ---
 <div style="max-width: 637px; margin: auto;">
     <img src="artwork/imgChung1.png" alt="A side-by-side comparison of Portrait of Edmond de Belamy (2018) and example outputs from Barrat's open source code." />

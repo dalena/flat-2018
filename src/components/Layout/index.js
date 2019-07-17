@@ -6,49 +6,36 @@ import Header from "../Header";
 import Footer from "../Footer";
 import "./style.css";
 
-const Layout = ({ path, children }) => (
-  <StaticQuery
-    query={graphql`
-      query SiteTitleQuery($path: String!) {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-        markdownRemark(frontmatter: { path: { eq: $path } }) {
-          html
-          excerpt
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            path
-            title
-            author
-            image {
-              absolutePath
-              base
-              publicURL
-              relativePath
+const Layout = ({ path, children }) => {
+  const slug = path ? `article-path-${path.replace(/\//g, '-')}` : '';
+  return (
+    <StaticQuery
+      query={graphql`
+        query SiteTitleQuery  {
+          site {
+            siteMetadata {
+              title
             }
           }
         }
-      }
-    `}
-    render={data => (
-      <>
-        <div className={`pre-wrapper article-path-${path.replace(/\//g, '-')}`}>
-          {/* <div className="header-wrapper"> */}
-            <Header siteTitle={data.site.siteMetadata.title} isPost={path != null ? true : false} />
-          {/* </div> */}
-          <div id="wrapper" >
-            {/* <IssueNav path={path}></IssueNav> */}
-            <main>{children}</main>
-            <Footer />
+      `}
+      render={data => (
+        <>
+          <div className={`pre-wrapper ${slug}`}>
+            {/* <div className="header-wrapper"> */}
+              <Header siteTitle={data.site.siteMetadata.title} isPost={path != null ? true : false} />
+            {/* </div> */}
+            <div id="wrapper" >
+              {/* <IssueNav path={path}></IssueNav> */}
+              <main>{children}</main>
+              <Footer />
+            </div>
           </div>
-        </div>
-      </>
-    )}
-  />
-)
+        </>
+      )}
+    />
+  )
+}
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

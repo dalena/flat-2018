@@ -3,7 +3,6 @@ title: "Static Noise, Dynamic Uncertainties"
 path: "/flat/khoshgozaran"
 author: "Gelare Khoshgozaran"
 type: "article"
-bgPatNum: "3"
 ---
 ![](/artwork/artKhoshgozaran1.jpg)[](#)
 ##### Image courtesy of Gelare Khoshgozaran.

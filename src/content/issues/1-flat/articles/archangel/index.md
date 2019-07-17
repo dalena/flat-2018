@@ -3,7 +3,6 @@ title: "gs://npr-book/npr-half-hour-003-of-48.wav"
 author: "Cory Archangel"
 path: "/flat/archangel"
 type: "article"
-bgPatNum: "2"
 ---
 
 **Transcription**: Marketplace is supported by Drexel University Drexel University I know I use this yesterday but honestly it is just so good is the problem is there is a brexit deal we think from American public media
@@ -46,8 +45,8 @@ you're listening to Marketplace on WNYC all coming up next day 2
 
  <span class="bio1">
 
-###### ABOUT THE ARTIST  
-**Cory Arcangel** (b. 1978, Buffalo, NY) is a composer, artist, and entrepreneur. After having lived in New York for 15 years, Arcangel recently moved to Stavanger, Norway where he lives and works by telecommuting to his studio in Brooklyn - which he still maintains. Since moving, he has worked on a dizzying array of seemingly un-related projects; For the 2019 Sharjah Biennial he created banners of “destroyed jeans” for the facade of the Sharjah Art Museum, as well as composed a new work for pipe organ - which was placed into the mix at the Radisson Blu Sharjah gym. In collaboration with Olia Lialina, he recently toured the two-person show, “Asymmetrical Response” which traveled to the Western Front (2016) in Vancouver, the Kitchen in New York (2017), and Art Projects Ibiza in Ibiza (2017); Under the auspices of Arcangel Surfware - a software and merchandise publishing company he founded - he published Tony Conrad's 200 plus hour long piano piece, Music and the Mind of the World in 2017, released a line of fidgit spinners, as well as opened a flagship store and gallery in Stavanger in 2018 - where he can be found working on Saturdays. His work is included in many public collections, including the MoMA in New York, the Tate in London, Berlin's Neue Nationalgalerie, and the Migros Museum für Gegenwartskunst in Zürich. 
+###### ABOUT THE ARTIST
+**Cory Arcangel** (b. 1978, Buffalo, NY) is a composer, artist, and entrepreneur. After having lived in New York for 15 years, Arcangel recently moved to Stavanger, Norway where he lives and works by telecommuting to his studio in Brooklyn - which he still maintains. Since moving, he has worked on a dizzying array of seemingly un-related projects; For the 2019 Sharjah Biennial he created banners of “destroyed jeans” for the facade of the Sharjah Art Museum, as well as composed a new work for pipe organ - which was placed into the mix at the Radisson Blu Sharjah gym. In collaboration with Olia Lialina, he recently toured the two-person show, “Asymmetrical Response” which traveled to the Western Front (2016) in Vancouver, the Kitchen in New York (2017), and Art Projects Ibiza in Ibiza (2017); Under the auspices of Arcangel Surfware - a software and merchandise publishing company he founded - he published Tony Conrad's 200 plus hour long piano piece, Music and the Mind of the World in 2017, released a line of fidgit spinners, as well as opened a flagship store and gallery in Stavanger in 2018 - where he can be found working on Saturdays. His work is included in many public collections, including the MoMA in New York, the Tate in London, Berlin's Neue Nationalgalerie, and the Migros Museum für Gegenwartskunst in Zürich.
 
 *Left* (2019) is a half hour of WNYC's internet audio stream, converted to text using Google's text-to-speech Cloud AI service.
 </span>
