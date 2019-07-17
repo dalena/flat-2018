@@ -71,7 +71,7 @@ Peanut butter. Marmite. Gorgonzola. From behind the bookshelf divider, the wife 
 <span class="bio2">
 
 ###### ABOUT THE ART  
-_Untitled_ is a collection of digital artworks by [Amy Fang](https://www.amyfang.design)
+_To Bloom, To Fade_ is an animation inspired by Georgia O'Keeffe's body of work in which the female form is alluded to in flower imagery. The animation itself intimately explores a 3D modeled flower created by the artist. Through abstracting the physical form of a flower, a sense of ethereality and sensuality is found. The full video can be viewed [**here**](https://vimeo.com/341413621)
 
 **Website**: [https://www.amyfang.design](https://www.amyfang.design)  
 **Instagram**: [@m00n_cake](https://www.instagram.com/m00n_cake/)  

@@ -7,7 +7,7 @@ author: "Erica Young"
 image: "imgYoung1.gif"
 btn: "/flat/young/room"
 btntxt: "Play Room"
-bios: "<h6>ABOUT THE ARTIST</h6></br><b>Erica Young</b></br></br> Erica is a multidisciplinary artist who is interested in perception, passionate about accessibility, and has the unique ability to sleep anywhere, at anytime. </br></br><b>Website:</b> <a href='https://cargocollective.com/xingxingart'>https://cargocollective.com/xingxingart</a>"
+bios: "<h6>ABOUT THE ARTIST</h6></br><b>Erica Young</b></br></br> Erica is a multidisciplinary artist who is interested in perception, passionate about accessibility, and has the unique ability to sleep anywhere, at anytime. </br></br><b>Website:</b> <strong><a href='https://cargocollective.com/xingxingart'>https://cargocollective.com/xingxingart</a></strong>"
 ---
 
 
