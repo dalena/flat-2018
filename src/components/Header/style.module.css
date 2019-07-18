@@ -1,0 +1,106 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Mukta', sans-serif;
+  grid-column: 1 / 4;
+  grid-row: 1;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.header h1 {
+  font-size: 32px;
+  margin: 0px;
+}
+
+.logo a {
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+  transition-delay: 0.05s;
+  font-family: 'Mukta', sans-serif;
+  color: white;
+  letter-spacing: 8px;
+  text-shadow:
+    -1px -1px 0 #1A1851,
+    1px -1px 0 #1A1851,
+    -5px 5px 0 #1A1851,
+    1px 1px 0 #1A1851;
+  text-decoration: none;
+}
+
+.logo a:hover {
+  color: #ffc0cb;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.nav li {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 35px;
+  letter-spacing: 3px;
+  text-align: right;
+}
+
+.nav li a {
+  color: rgba(26, 24, 81, 0.7);
+  text-transform: uppercase;
+  padding: 10px 20px 10px 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 5px;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+  transition-delay: 0.05s;
+  text-decoration: none;
+}
+
+.nav li:nth-child(1) a:hover,
+.nav li:nth-child(1) a:active {
+  background-position: center;
+  text-decoration: none;
+  background-image: url('../../images/s1.svg');
+  background-size: 50px;
+}
+
+.nav li:nth-child(2) a:hover,
+.nav li:nth-child(2) a:active {
+  background-position: center;
+  text-decoration: none;
+  background-image: url('../../images/s2.svg');
+  background-size: 50px;
+}
+
+.nav li:nth-child(3) a:hover,
+.nav li:nth-child(3) a:active {
+  background-position: center;
+  text-decoration: none;
+  background-image: url('../../images/s3.svg');
+  background-size: 50px;
+}
+
+.nav li:nth-child(3) a {
+  padding-right: 0;
+}
+
+
+.nav li a:visited {
+  color: rgba(26, 24, 81, 0.7);
+}
+
+@media only screen and (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav {
+    justify-content: flex-start;
+  }
+
+}

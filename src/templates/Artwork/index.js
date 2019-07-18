@@ -5,6 +5,14 @@ import { graphql } from "gatsby";
 import Layout from "../../components/Layout";
 import SEO from "../../components/SEO";
 
+import {
+  artLeft,
+  artRight,
+  artText,
+  artBottom,
+  artBios,
+} from './style.module.css';
+
 export default function Artwork({ data }) {
   const { markdownRemark: post } = data
   return (
@@ -16,12 +24,12 @@ export default function Artwork({ data }) {
           <h3>{post.frontmatter.author}</h3>
           <h2>{post.frontmatter.title}</h2>
         </div>
-        <div className="art-left" >
+        <div className={artLeft} >
           <img src={post.frontmatter.image.publicURL} alt=""></img>
         </div>
-        <div className="art-right" >
+        <div className={artRight}>
           <div
-            className="art-text"
+            className={artText}
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
           <p>
@@ -32,9 +40,9 @@ export default function Artwork({ data }) {
             </a>
           </p>
         </div>
-        <div className="art-bottom">
+        <div className={artBottom}>
           <div
-            className="art-bios"
+            className={artBios}
             dangerouslySetInnerHTML={{ __html: post.frontmatter.bios }}
           />
         </div>
