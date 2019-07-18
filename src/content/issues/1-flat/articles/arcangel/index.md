@@ -1,7 +1,7 @@
 ---
 title: "gs://npr-book/npr-half-hour-003-of-48.wav"
-author: "Cory Archangel"
-path: "/flat/archangel"
+author: "Cory Arcangel"
+path: "/flat/arcangel"
 type: "article"
 ---
 
