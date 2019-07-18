@@ -107,7 +107,7 @@ body {
 
 #wrapper,
 .headWrapIndex {
-  margin: 2vw 5vw;
+  padding: 0 11vw;
   display: grid;
   grid-template-columns: 1fr 4.5fr 1fr;
 }
@@ -476,14 +476,12 @@ footer {
 }
 
 /* Extra large devices */
-/* @media only screen and (max-width: 1650px) { */
-
   main {
     grid-column: 1 / 4;
   }
 
   .pre-wrapper {
-    margin: 4vw 6vw;
+    margin: 20px 0 0 0;
   }
 
   header h1 {
@@ -513,11 +511,12 @@ footer {
   .article-meta h2 {
     font-size: 28px;
     margin: 0;
+    line-height: 1em;
   }
 
   .article-meta h3 {
     font-size: 15px;
-    margin: 0;
+    margin: 10px 0 0 0;
 
   }
 
@@ -592,8 +591,6 @@ footer {
     margin: 0 auto;
     padding: 0px;
   }
-
-/*}*/
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
@@ -716,9 +713,8 @@ footer {
   padding: 20px;
 }
 
-.article-path--flat-mendelsohn {
+.article-path--flat-mendelsohn #wrapper {
   background-image: url(../../content/issues/1-flat/articles/mendelsohn/artwork/combined.jpg);
   background-size: cover;
-  background-position: 0 120px;
   background-repeat: no-repeat;
 }
