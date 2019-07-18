@@ -1,7 +1,7 @@
 ---
 title: "THE HUSBAND, THE MAN"
 author: "Sarah Blakley-Cartwright"
-path: "/flat/cartwright"
+path: "/flat/blakley-cartwright"
 type: "article"
 ---
 
