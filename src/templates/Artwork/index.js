@@ -17,8 +17,7 @@ export default function Artwork({ data }) {
   const { markdownRemark: post } = data
   return (
     <Layout path={post.frontmatter.path}>
-      <SEO title="Home" />
-      <Helmet title={`${post.frontmatter.title}`} />
+      <SEO title={`${post.frontmatter.title}`} />
       <div className="article">
         <div className="article-meta" >
           <h3>{post.frontmatter.author}</h3>
