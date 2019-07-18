@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Mukta:400,700&display=swap');
 
+@import url('../../content/issues/1-flat/style.css');
+
 html {
   background-color: rgb(245, 245, 248) !important;
   background-size: contain;

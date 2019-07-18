@@ -1,0 +1,23 @@
+.mendelsohn-footnotes {
+  font-size: 0.9em;
+  padding-left: 12px;
+}
+
+.mendelsohn-dates {
+  list-style: none;
+  padding: 0;
+}
+
+.mendelsohn-dates li {
+  margin-bottom: 2em;
+}
+
+.mendelsohn-timeline .mendelsohn-col {
+  padding: 20px;
+}
+
+.article-path--flat-mendelsohn #wrapper {
+  background-image: url(./articles/mendelsohn/artwork/combined.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
