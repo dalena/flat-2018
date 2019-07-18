@@ -1,9 +1,11 @@
 ---
-title: "gs://npr-book/npr-half-hour-003-of-48.wav"
+title: "LEFT"
 author: "Cory Arcangel"
 path: "/flat/arcangel"
 type: "article"
 ---
+
+### gs://npr-book/npr-half-hour-003-of-48.wav
 
 **Transcription**: Marketplace is supported by Drexel University Drexel University I know I use this yesterday but honestly it is just so good is the problem is there is a brexit deal we think from American public media
 Marketplace is supported by Progressive Insurance offering snapshot a device that adjusts insurance rates based on safe driving habits now that's Progressive learn more Progressive, and I figure providing a streamline digital platform for home equity loans you can learn how to use the equity in your home for Home Improvement major purchases or debt consolidation at figured and buy invest Northern Ireland Northern Ireland a European location with a skilled agile Workforce focused on results more Ivan best and I. Com
