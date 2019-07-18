@@ -5,20 +5,48 @@ import { createSketch } from './Sketch';
 
 import style from './style.module.css';
 
+const {
+  issueNav,
+  issueNavMobile,
+  ...mobileNavColors
+} = style;
 
 class IssueNav extends Component {
   constructor() {
     super();
     this.p5Node = React.createRef();
+    this.state = {
+      isMobile: true,
+    };
   }
 
   componentDidMount() {
-    this.sketch = createSketch(this.p5Node.current, this.props.nodes);
+    const { matches: mobile } = window.matchMedia('(max-width: 600px)');
+
+    if (!mobile) {
+      this.setState({ isMobile: mobile });
+      this.sketch = createSketch(this.p5Node.current, this.props.nodes);
+    }
   }
 
   render() {
-    return <div className={style.issueNav} ref={this.p5Node} />
+    const { isMobile } = this.state;
+    const className = isMobile ? '' : issueNav;
+
+    return <div className={className} ref={this.p5Node}>
+      {isMobile && <IssueNavMobile nodes={this.props.nodes} />}
+    </div>
   }
+}
+
+const IssueNavMobile = ({nodes}) => {
+  return (
+    <ul className={issueNavMobile}>
+      {
+        nodes.map((val, i) => <li key={val.author} className={mobileNavColors[`navColor${i}`]}><a href={val.path}>{val.author.toUpperCase()}</a></li>)
+      }
+    </ul>
+  );
 }
 
 const IssueNavWrapped = (props) => (
