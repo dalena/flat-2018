@@ -10,7 +10,7 @@ const Header = ({ path, siteTitle, isPost }) => (
     <header className={header}>
       <div className={logo}>
         <Link to="/">
-          <h1>FLAT</h1>
+          <h1>{siteTitle}</h1>
         </Link>
         {/* <h3>Issue 1 : FLAT</h3> */}
       </div>
