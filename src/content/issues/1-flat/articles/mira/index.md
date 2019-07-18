@@ -51,16 +51,16 @@ In this sense fanart and GAN images are not simple "credible copies of existing 
 
 ### Database Animals
 
-<div style="max-width: 974px; max-height: 80vh; margin: auto;">
-    <img src="artwork/imgChung2.jpg" alt="The patterns of cultural consumption in the modernist world" />
+<div style="display: flex; width: 100%; margin-top: 10px;">
+    <div style="flex-grow: 1; padding-right: 20px;">
+        <img src="artwork/imgChung2a.jpg" alt="The patterns of cultural consumption in the modernist world" />
+    </div>
+    <div style="flex-grow: 1;">
+     <img src="artwork/imgChung3b.jpg" alt="versus in the new database-centric world (bottom: a model the Grand Non-Narrative)." />
+    </div>
 </div>
-<br />
-<div style="max-width: 960px; max-height: 80vh; margin: auto;">
-    <img src="artwork/imgChung3.jpg" alt="versus in the new database-centric world (bottom: a model the Grand Non-Narrative)." />
-</div>
-<br />
 
-##### The patterns of cultural consumption in the modernist world (top: a model with the Grand Narrative) versus in the new database-centric world (bottom: a model the Grand Non-Narrative).
+##### The patterns of cultural consumption in the modernist world (left: a model with the Grand Narrative) versus in the new database-centric world (right: a model the Grand Non-Narrative).
 ##### Source: Azuma, Hiroki. Otaku: Japan's database animals. U of Minnesota Press, 2009.
 
 In Otaku: Japan's database animals, Azuma examines the trends in Otaku culture (the anime/game fandom subculture in Japan) during the 2000s as a case study 16. Extending postmodernist analysis on literature, he identifies "the Grand Non-Narrative (a database)" as the central pivot for shifting the cultural consumption pattern.
