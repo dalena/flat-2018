@@ -1,8 +1,25 @@
 ---
 title: "THE HUSBAND, THE MAN"
-author: "Sarah Blakley-Cartwright"
 path: "/flat/blakley-cartwright"
 type: "article"
+author: "Sarah Blakley-Cartwright"
+authorBio: Sarah Blakley-Cartwright is a New York Times bestselling author, Associate Editor of A Public Space, and Publishing Director of the Chicago Review of Books.
+authorLinks:
+ -
+  type: instagram
+  name: sarblakcart
+ -
+  type: twitter
+  name: sarblakcart
+artist: Amy Fang
+artistLinks:
+ -
+  type: website
+  url: https://www.amyfang.design
+ -
+  type: instagram
+  name: m00n_cake
+artistBio: <em>To Bloom, To Fade</em> is an animation inspired by Georgia O'Keeffe's body of work in which the female form is alluded to in flower imagery. The animation itself intimately explores a 3D modeled flower created by the artist. Through abstracting the physical form of a flower, a sense of ethereality and sensuality is found. The full video can be viewed <a href="https://vimeo.com/341413621"><strong>here</strong></a>
 ---
 
 ![](/artwork/imgCartwrightFang1.jpg)[](#)
@@ -53,25 +70,3 @@ Head in need of a pillow.
 The wife could tell when the girl had been in the fridge. The girl liked what smelled, foods the wife had bought but not realized were so pungent. She “wore” her ex-boyfriend. He was an artist and had done a limited edition line for a small fashion house. At the time, she told people, I only wear Christopher Owens and Dior. Fashion house.
 
 Peanut butter. Marmite. Gorgonzola. From behind the bookshelf divider, the wife watched the girl peel off a bit of toenail and put it in her mouth. If you heard the Jurassic Park theme song in two boys’ voices, then the son had a friend over.
-
----
-
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR
-**Sarah Blakley-Cartwright** is a New York Times bestselling author, Associate Editor of A Public Space, and Publishing Director of the Chicago Review of Books.
-
-**Instagram**: [@sarblakcart](https://www.instagram.com/sarblakcart/)
-**Twitter**: [@sarblakcart](https://twitter.com/sarblakcart)
-
-</span>
-
-<span class="bio2">
-
-###### ABOUT THE ART
-_To Bloom, To Fade_ is an animation inspired by Georgia O'Keeffe's body of work in which the female form is alluded to in flower imagery. The animation itself intimately explores a 3D modeled flower created by the artist. Through abstracting the physical form of a flower, a sense of ethereality and sensuality is found. The full video can be viewed [**here**](https://vimeo.com/341413621)
-
-**Website**: [https://www.amyfang.design](https://www.amyfang.design)
-**Instagram**: [@m00n_cake](https://www.instagram.com/m00n_cake/)
-</span>

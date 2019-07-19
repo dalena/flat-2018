@@ -25,42 +25,9 @@
     line-height: 24px;
 }
 
-
-.artBottom {
-    grid-column: 1/7;
-}
-
 .artText p {
     padding-top: 0;
     margin-top: 0;
-}
-
-.artBottom {
-    width: 100%;
-    background: rgba(231, 242, 255, 0.781);
-    grid-column: 1/7;
-    margin: 50px 0;
-}
-
-.artBios {
-    padding: 28px;
-    background: #e7f2ffc7;
-    font-family: 'Mukta', sans-serif;
-    font-size: 16px;
-    line-height: 24px;
-}
-
-.artBios h6 {
-    line-height: 38px;
-    font-size: 21px;
-    margin: 0;
-}
-
-.artBios a {
-    text-decoration: none;
-    border-bottom: 1px solid rgba(26, 24, 81, 0.7);
-    display: inline-block;
-    color: rgba(26, 24, 81, 0.7);
 }
 
 @media only screen and (max-width: 768px) {

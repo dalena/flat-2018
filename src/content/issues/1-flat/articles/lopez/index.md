@@ -1,8 +1,17 @@
 ---
 title: "Spatial Disintegration"
 path: "/flat/lopez"
-author: "Karina Lopez"
 type: "article"
+artist: "Karina Lopez"
+artistLinks:
+ -
+  type: website
+  url: http://www.karinalopez.org
+ -
+  type: vimeo
+  name: karinalo
+
+artistBio: Karina Lopez is a Mexican LA-based media artist, researcher, and holds a B.A. in Design | Media Arts. She does interdisciplinary research in art, architecture, and science. Whilst combining a variety of genres and techniques, her focus revolves around the patterns that exist in the relationship between the human body and technology. Her creative practices include costume software, audio-visual installations, data visualizations, interactive design, photography, videography, and VR.lizations, interactive design, photography, videography, and VR.
 ---
 
 
@@ -10,18 +19,3 @@ This project is about the shifting perceptions of our body-space relationships. 
 
 [Spatial Disintegration](https://vimeo.com/341427201)
 <iframe src="https://player.vimeo.com/video/341427201" width="100%" height="600" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
-
----
-
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR
-**Karina Lopez** is a Mexican LA-based media artist, researcher, and holds a B.A. in Design | Media Arts. She does interdisciplinary research in art, architecture, and science. Whilst combining a variety of genres and techniques, her focus revolves around the patterns that exist in the relationship between the human body and technology. Her creative practices include costume software, audio-visual installations, data visualizations, interactive design, photography, videography, and VR.lizations, interactive design, photography, videography, and VR.
-
-**Website**: [http://www.karinalopez.org](http://www.karinalopez.org)
-**Vimeo**: [@karinalo](https://vimeo.com/karinalo)
-
-</span>

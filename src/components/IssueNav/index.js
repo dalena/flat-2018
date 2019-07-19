@@ -64,6 +64,7 @@ const IssueNavWrapped = (props) => (
                             title
                             path
                             author
+                            artist
                             image {
                                 publicURL
                             }
@@ -79,7 +80,13 @@ const IssueNavWrapped = (props) => (
         }
       `}
     render={data => {
-      const nodes = data.allMarkdownRemark.edges.map(({ node: { frontmatter: { title, author, path } } }, i) => ({ title, author, path }));
+      const nodes = data.allMarkdownRemark.edges.map(
+        ({ node: { frontmatter: { title, author, artist, path } } }, i) => ({
+          title,
+          path,
+          author: author ? author : artist,
+        })
+      );
       return (<IssueNav nodes={ nodes } />)
     }}
   />

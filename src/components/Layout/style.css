@@ -134,7 +134,7 @@ main {
 
 .article-text {
   grid-column: 1 / 4;
-  grid-row: 3 / 4;
+  /* grid-row: 3 / 4; */
 }
 
 .article-text a {
@@ -329,6 +329,13 @@ main {
 
 .article button {
   margin-top: 10px;
+}
+
+.article-footer {
+  width: 100%;
+  /* background: rgba(231, 242, 255, 0.781); */
+  grid-column: 1/7;
+  margin: 50px 0;
 }
 
 .page-cont {

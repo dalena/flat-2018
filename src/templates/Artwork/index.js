@@ -1,26 +1,27 @@
 import React from "react";
-import { Helmet } from "react-helmet";
 import { graphql } from "gatsby";
 
 import Layout from "../../components/Layout";
-import SEO from "../../components/SEO";
+import SEO from '../../components/SEO';
+import Bio from '../../components/Bio';
 
 import {
   artLeft,
   artRight,
-  artText,
-  artBottom,
-  artBios,
+  artText
 } from './style.module.css';
 
 export default function Artwork({ data }) {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
+  console.log(post.frontmatter);
+
+
   return (
     <Layout path={post.frontmatter.path}>
       <SEO title={`${post.frontmatter.title}`} />
       <div className="article">
         <div className="article-meta" >
-          <h3>{post.frontmatter.author}</h3>
+          <h3>{post.frontmatter.artist}</h3>
           <h2>{post.frontmatter.title}</h2>
         </div>
         <div className={artLeft} >
@@ -39,10 +40,12 @@ export default function Artwork({ data }) {
             </a>
           </p>
         </div>
-        <div className={artBottom}>
-          <div
-            className={artBios}
-            dangerouslySetInnerHTML={{ __html: post.frontmatter.bios }}
+        <div className="article-footer">
+          <Bio
+            type="artist"
+            name={post.frontmatter.artist}
+            bio={post.frontmatter.artistBio}
+            links={post.frontmatter.artistLinks}
           />
         </div>
       </div>
@@ -63,9 +66,14 @@ export const postQuery = graphql`
         path
         btn
         btntxt
-        bios
         title
-        author
+        artist
+        artistBio
+        artistLinks {
+          url
+          type
+          name
+        }
         image {
           absolutePath
           base

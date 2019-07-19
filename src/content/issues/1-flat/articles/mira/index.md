@@ -1,8 +1,13 @@
 ---
 title: "Decision-Making, Delegated, Art-Making: AI and Art, A.D. 2019"
 path: "/flat/mira-c"
-author: "Mira C"
 type: "article"
+author: "Mira C"
+authorBio: Mira C is a transdisciplinary something based in San Francisco. They write and draw about rumors, speculations, drama, and hopes surrounding a candidate of disruptive innovation.
+authorLinks:
+ -
+  type: website
+  url: https://medium.com/@mirarim
 ---
 <div style="max-width: 637px; margin: auto;">
     <img src="artwork/imgChung1.png" alt="A side-by-side comparison of Portrait of Edmond de Belamy (2018) and example outputs from Barrat's open source code." />
@@ -177,13 +182,4 @@ Before wrapping up, we would like to add some residual questions that should (or
 <sup>21</sup> https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/</br>
 <sup>22</sup> https://www.theatlantic.com/technology/archive/2019/03/ai-created-art-invades-chelsea-gallery-scene/584134/</br>
 <sup>23</sup> http://rhizome.org/editorial/2018/apr/18/blobs-of-flesh-categorized-as-human/</br>
-</span>
-
----
-<span class="bio1">
-
-###### ABOUT THE ARTIST
-**Mira C** is a transdisciplinary something based in San Francisco. They write and draw about rumors, speculations, drama, and hopes surrounding a candidate of disruptive innovation.
-
-Website: [https://medium.com/@mirarim ](https://medium.com/@mirarim)
 </span>

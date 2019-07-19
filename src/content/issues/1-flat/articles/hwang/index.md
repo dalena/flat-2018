@@ -1,8 +1,16 @@
 ---
 title: "Super-ephemerality: Street Art (1) in Digital Space"
 path: "/flat/hwang"
-author: "Sarah Hwang"
 type: "article"
+author: "Sarah Hwang"
+authorLinks:
+ -
+  type: website
+  url: http://artjournalbysh.wordpress.com
+ -
+  type: instagram
+  name: theoriginalhwangsta
+authorBio: Sarah Hwang loves (and sometimes hates) art and writing about art. She especially enjoys writing about graffiti and street art, and other narratives that transgress the institution of Art. She has a MA in art history and served as an advisory board member of the Portland Street Art Alliance. She was also one of the first participants of Art Practical’s Art Publishing Residency and has published other essays and reviews.
 ---
 
 Jean Baudrillard predicted our present in _Simulacra and Simulation_ when he argued that our reliance on maps and models has preceded our connection to the real world: "The territory no longer precedes the map, nor does it survive it. It is nevertheless the map that precedes the territory—precession of simulacra—that engenders the territory".<sup>2</sup> Our society has surpassed the modern and entered the postmodern (or metamodern) where screens dominate the way we experience our surroundings. We have learned to read what is on our screen as a \[an accurate\] simulation of what exists in reality. According to Baudrillard, when it comes to postmodern simulation and simulacra, “it is no longer a question of imitation, nor duplication, nor even parody. It is a question of substituting the signs of the real for the real”.<sup>3</sup>
@@ -48,16 +56,4 @@ Today, the signs of the real are the real. The superflatness of the internet has
 <sup>5</sup> Hiroki Azuma, “Superflat Japanese postmodernity” (lecture, Pacific Design Center, April 5 2001), https://www.scribd.com/document/99174676/Azuma-Hiroki-Superflat. </br>
 <sup>6</sup> ibid.</br>
 <sup>7</sup> RJ Rushmore, _Viral Art_ (Pressbooks.com, 2013), 227.
-</span>
-
----
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR
-
-**Sarah Hwang** loves (and sometimes hates) art and writing about art. She especially enjoys writing about graffiti and street art, and other narratives that transgress the institution of Art. She has a MA in art history and served as an advisory board member of the Portland Street Art Alliance. She was also one of the first participants of Art Practical’s Art Publishing Residency and has published other essays and reviews.  <br/><br/>
-**Website**: [artjournalbysh.wordpress.com](artjournalbysh.wordpress.com)
-**Instagram**: [@theoriginalhwangsta](https://www.instagram.com/theoriginalhwangsta/)
-
 </span>

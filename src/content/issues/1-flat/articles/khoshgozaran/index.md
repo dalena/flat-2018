@@ -1,8 +1,14 @@
 ---
 title: "Static Noise, Dynamic Uncertainties"
 path: "/flat/khoshgozaran"
-author: "Gelare Khoshgozaran"
 type: "article"
+author: "Gelare Khoshgozaran"
+authorBio: Gelare Khoshgozaran is an undisciplinary artist and writer who, in 2009 was transplanted from street protests in a city of four seasons to the windowless rooms of the University of Southern California where aesthetics and politics were discussed in endless summers. Using time-based media and film, her practice encompasses literary theory, translation, and autobiographical fiction. Her essays and interviews on art, politics and culture have been published and are forthcoming in contemptorary (co-founder), The Brooklyn Rail, Parkett, X-TRA, The Enemy, X Journal, Ajam Media Collective and Temporary Art Review, amongst others. Her films, video essays, installations and performances have been presented in solo and group exhibitions at the New Museum, Queens Museum, Eyebeam, Hammer Museum, LAXART, Human Resources, Articule (Montreal), Beursschouwburg (Brussels) and Pori Art Museum (Pori, Finland). She was the recipient of a Creative Capital | Andy Warhol Foundation Arts Writers Grant (2015) and an Art Matters Award (2017), and is artist in residence at Yarat Contemporary Art Space in Baku, Azerbaijan (Fall 2019).
+authorLinks:
+ -
+  type: website
+  url: https://gelarekhoshgozaran.com/
+
 ---
 ![](/artwork/artKhoshgozaran1.jpg)[](#)
 ##### Image courtesy of Gelare Khoshgozaran.
@@ -37,13 +43,3 @@ As artworkers we need to recreate our narrative of the self by cultivating diffe
 <sup>6</sup> Han, Byung-Chul. Psychopolitics Neoliberalism and New Technologies of Power. Verso, 2017, p. 70.</br>
 <sup>7</sup> Raqs Media Collective, It’s Written Because It’s Written, CA2M . Centro de Arte Dos de Mayo. MUAC . Museo Universitario Arte Contemporáneo, UNAM. Fundación PROA, p. 145.
 </span>
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR
-**Gelare Khoshgozaran** is an undisciplinary artist and writer who, in 2009 was transplanted from street protests in a city of four seasons to the windowless rooms of the University of Southern California where aesthetics and politics were discussed in endless summers. Using time-based media and film, her practice encompasses literary theory, translation, and autobiographical fiction. Her essays and interviews on art, politics and culture have been published and are forthcoming in contemptorary (co-founder), The Brooklyn Rail, Parkett, X-TRA, The Enemy, X Journal, Ajam Media Collective and Temporary Art Review, amongst others. Her films, video essays, installations and performances have been presented in solo and group exhibitions at the New Museum, Queens Museum, Eyebeam, Hammer Museum, LAXART, Human Resources, Articule (Montreal), Beursschouwburg (Brussels) and Pori Art Museum (Pori, Finland). She was the recipient of a Creative Capital | Andy Warhol Foundation Arts Writers Grant (2015) and an Art Matters Award (2017), and is artist in residence at Yarat Contemporary Art Space in Baku, Azerbaijan (Fall 2019).
-
-**Website**: [https://gelarekhoshgozaran.com/](https://gelarekhoshgozaran.com/)
-
-</span>
-

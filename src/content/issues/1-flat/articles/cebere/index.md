@@ -1,8 +1,16 @@
 ---
 title: "Flat / Surface"
 path: "/flat/cebere"
-author: "Agnese Cebere"
 type: "article"
+author: "Agnese Cebere"
+authorLinks:
+ -
+  type: website
+  url: https://agnesecebere.com
+ -
+  type: instagram
+  name: tacit_swarming
+authorBio: Agnese Cebere is an artist, dancer, and filmmaker based in Eugene, Oregon.  Originally from Latvia, Agnese grew up in Sweden, and earned her BA in Intermedia Art at Edinburgh College of Art, Scotland. She recently finished her MA in Media Studies at The New School, New York, where her research has focused on embodiment and technology as they converge in screendance. Her filmmaking experience lies in live performance capture and editing, as well as experimental video art.
 ---
 
 ![](/artwork/imgCebere01.jpg)[](#)
@@ -43,18 +51,3 @@ This restructuring creates a digital fossil of a photograph, completely changing
 
 ![](/artwork/imgCebere09.png)[](#)
 ##### Gash, Agnese Cebere.
-
-
-
-
-
----
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR &  ARTIST
-**Agnese Cebere** is an artist, dancer, and filmmaker based in Eugene, Oregon.  Originally from Latvia, Agnese grew up in Sweden, and earned her BA in Intermedia Art at Edinburgh College of Art, Scotland. She recently finished her MA in Media Studies at The New School, New York, where her research has focused on embodiment and technology as they converge in screendance. Her filmmaking experience lies in live performance capture and editing, as well as experimental video art.
-
-**Website**: [agnesecebere.com](https://agnesecebere.com)
-**Instagram**: [@tacit_swarming](https://www.instagram.com/tacit_swarming)
-</span>

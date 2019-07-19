@@ -1,24 +1,44 @@
 import React from "react";
-import { Helmet } from "react-helmet";
 import { graphql } from "gatsby";
 
+import Bio from '../../components/Bio';
 import Layout from "../../components/Layout";
 import SEO from "../../components/SEO";
 
 export default function Article({ data }) {
-  const { markdownRemark: post } = data
+  const { markdownRemark: {html, frontmatter} } = data
   return (
-    <Layout path={post.frontmatter.path}>
-      <SEO title={`${post.frontmatter.title}`} />
+    <Layout path={frontmatter.path}>
+      <SEO title={`${frontmatter.title}`} />
       <div className='article'>
         <div className="article-meta" >
-          <h3>{post.frontmatter.author}</h3>
-          <h2>{post.frontmatter.title}</h2>
+          <h3>{frontmatter.author ? frontmatter.author : frontmatter.artist}</h3>
+          <h2>{frontmatter.title}</h2>
         </div>
         <div
           className="article-text"
-          dangerouslySetInnerHTML={{ __html: post.html }}
+          dangerouslySetInnerHTML={{ __html: html }}
         />
+        <div className="article-footer">
+          {
+            frontmatter.author &&
+            <Bio
+              type="author"
+              name={frontmatter.author}
+              bio={frontmatter.authorBio}
+              links={frontmatter.authorLinks}
+            />
+          }
+          {
+            frontmatter.artist &&
+            <Bio
+              type={frontmatter.author ? 'art' : 'artist'}
+              name={frontmatter.artist}
+              bio={frontmatter.artistBio}
+              links={frontmatter.artistLinks}
+            />
+            }
+        </div>
       </div>
     </Layout >
 
@@ -35,6 +55,19 @@ export const postQuery = graphql`
         path
         title
         author
+        authorBio
+        authorLinks {
+          url
+          type
+          name
+        }
+        artist
+        artistBio
+        artistLinks {
+          url
+          type
+          name
+        }
         image {
           absolutePath
           base

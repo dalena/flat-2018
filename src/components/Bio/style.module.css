@@ -1,0 +1,51 @@
+.authorBio {
+  background: rgba(255, 243, 190, 0.82);
+}
+
+.artistBio,
+.artBio {
+  background: #e7f2ffc7;
+}
+
+.biography {
+  padding: 28px;
+  font-family: 'Mukta', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 50px;
+}
+
+.biography p,
+.biography h3 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.biography h2 {
+  font-size: 21px;
+  margin: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.biography h3 {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.biography a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(26, 24, 81, 0.7);
+  display: inline-block;
+  color: rgba(26, 24, 81, 0.7);
+}
+
+.biography ul {
+  list-style: none;
+  padding: 0;
+  font-weight: bold;
+}
+
+.linkType {
+  text-transform: capitalize;
+}

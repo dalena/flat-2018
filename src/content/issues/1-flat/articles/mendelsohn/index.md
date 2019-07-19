@@ -5,6 +5,11 @@ path: "/flat/mendelsohn"
 type: "article"
 description: "A short story"
 author: "Asa Lipman Mendelsohn"
+authorBio: Asa Lipman Mendelsohn is from New York. He makes performances, film, and media projects that develop through a process of recording writing, and collaboration, often focusing on personal relationships and desire as ways to navigate seemingly inaccessible infrastructures, histories, and systems of power.<br><br>Asa works as an teacher and organizer, and often with other artists as a writer, editor, and performer. He has performed and exhibited at venues including Kunsthalle Wien, Vienna, Künstlerhaus Halle für Kunst und Medien, Graz, the Blanton Museum of Art, Austin, and Anthology Film Archives, New York. Asa studied visual arts and anthropology at the University of Chicago, and was a Fulbright Fellow in Vienna. He is currently an MFA candidate in visual arts at the University of California, San Diego, where he is learning about voice and security, passing and resistance. He is a 2019 Flaherty Film Seminar Fellow.
+authorLinks:
+ -
+  type: website
+  url: http://www.asamendelsohn.info/
 ---
 
 <div class="mendelsohn-text">
@@ -95,23 +100,3 @@ author: "Asa Lipman Mendelsohn"
         </ol>
     </li>
 </ol>
-
----
-<span class="bio1">
-
-###### ABOUT THE ARTIST
-**Asa Lipman Mendelsohn** is from New York. He makes performances, film, and media projects
-that develop through a process of recording, writing, and collaboration, often focusing on
-personal relationships and desire as ways to navigate seemingly inaccessible infrastructures,
-histories, and systems of power.
-
-Asa works as an teacher and organizer, and often with other artists as a writer, editor, and
-performer. He has performed and exhibited at venues including Kunsthalle Wien, Vienna,
-Künstlerhaus Halle für Kunst und Medien, Graz, the Blanton Museum of Art, Austin, and
-Anthology Film Archives, New York. Asa studied visual arts and anthropology at the University
-of Chicago, and was a Fulbright Fellow in Vienna. He is currently an MFA candidate in visual
-arts at the University of California, San Diego, where he is learning about voice and security,
-passing and resistance. He is a 2019 Flaherty Film Seminar Fellow.
-
-**Website**: [http://www.asamendelsohn.info/](http://www.asamendelsohn.info/)
-</span>

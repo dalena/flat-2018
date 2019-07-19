@@ -1,8 +1,28 @@
 ---
 title: "Flat Vocality: Computation and the Violence of Representation in Art"
 path: "/flat/polack"
-author: "Peter Polack"
 type: "article"
+author: "Peter Polack"
+authorBio: Peter Polack is a PhD student in the Department of Information Studies at UCLA, where he studies the implications of computation for politics of representation and autonomy. His research concerns the development of experimental media artifacts that inform or overturn how we understand computational paradigms of governance, whether this understanding is informed by direct experience, through artworks, or through theoretical argumentation. He holds an M.S. in Computer Science and a B.S. in Computational Media from Georgia Tech.
+authorLinks:
+ -
+  type: website
+  url: http://interpolack.com
+ -
+  type: instagram
+  name: interpolack
+ -
+  type: twitter
+  name: interpolack
+artist: Chris Kim
+artistBio: <em>Improvisation</em> is a collection of five 17-inch by 22-inch posters and an experimental animation video which captured the improvised dances between the artist, Chris Kim, and 4 other people.
+artistLinks:
+ -
+  type: website
+  url: http://www.chkartdesign.com
+ -
+  type: instagram
+  name: i.am.chk
 ---
 ![](/artwork/imgPolackKim1.jpg)[](#)
 ##### Improvisation (1/5), Chris Kim.
@@ -97,27 +117,5 @@ Jacques Rancière. Dissensus: On politics and aesthetics. Bloomsbury Publishing,
 William Rubin. "Picasso". *Primitivism in 20th Century Art*, 1984.</br>
 Enid Schildkrout, Ambiguous Messages and Ironic Twists: *Into the Heart of Africa* and The Other Museum. *Museum Anthropology*. 15(2), May, 1991. Pp. 16-23.</br>
 Jenna Wortham, "Finding Inspiration for Art in the Betrayal of Privacy." *New York Times,* December, 2016. https://www.nytimes.com/2016/12/27/magazine/</br> finding-inspiration-for-art-in-the-betrayal-of-privacy.html.
-</span>
-
----
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR
-**Peter Polack** is a PhD student in the Department of Information Studies at UCLA, where he studies the implications of computation for politics of representation and autonomy. His research concerns the development of experimental media artifacts that inform or overturn how we understand computational paradigms of governance, whether this understanding is informed by direct experience, through artworks, or through theoretical argumentation. He holds an M.S. in Computer Science and a B.S. in Computational Media from Georgia Tech.
-
-**Website**: [http://interpolack.com](http://interpolack.com)
-**Instagram**: [@interpolack](https://www.instagram.com/interpolack/)
-**Twitter**: [@interpolack](https://twitter.com//interpolack/)
-
-</span>
-
-<span class="bio2">
-
-###### ABOUT THE ART
-_Improvisation_ is a collection of five 17-inch by 22-inch posters and an experimental animation video which captured the improvised dances between the artist, **Chris Kim**, and 4 other people.
-
-**Website**: [www.chkartdesign.com](www.chkartdesign.com)
-**Instagram**: [@i.am.chk](https://www.instagram.com/i.am.chk/)
 </span>
 

@@ -3,6 +3,7 @@ title: "Interview: David Valentine on the Possibility of Human Settlement in Spa
 path: "/flat/drake"
 author: "Sara Drake"
 type: "article"
+authorBio: Sara Drake is an artist and animator living in Los Angeles. She received her BFA from the School of the Art Institute of Chicago and her MFA from the Design Media Arts Program at UCLA.
 ---
 
 ![](/artwork/imgDrakeHua1.png)[](#)
@@ -65,12 +66,4 @@ But I’d say the biggest take away for me is that I now experience living on th
 <!-- Footnotes and Citations -->
 <span class="cite">
 David Valentine was interviewed by Sara Drake on April 12, 2019.
-</span>
-
-<span class="bio1">
-
-###### ABOUT THE AUTHOR
-
-**Sara Drake** is an artist and animator living in Los Angeles. She received her BFA from the School of the Art Institute of Chicago and her MFA from the Design Media Arts Program at UCLA.
-
 </span>
