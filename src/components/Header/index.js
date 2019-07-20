@@ -14,13 +14,13 @@ const Header = ({ path, siteTitle, isPost }) => (
         </Link>
         {/* <h3>Issue 1 : FLAT</h3> */}
       </div>
-      <div className={nav}>
+      <ul className={nav}>
         <li><Link to="/cfp">CFP</Link>
         </li>
 
         <li><Link to="/about">About</Link></li>
         <li><Link to="/people">People</Link></li>
-      </div>
+      </ul>
     </header>
   </div>
 )
