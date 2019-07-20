@@ -5,11 +5,11 @@ type: "article"
 author: "Sara Drake"
 authorBio: Sara Drake is an artist and animator living in Los Angeles. She received her BFA from the School of the Art Institute of Chicago and her MFA from the Design Media Arts Program at UCLA.
 artist: Hua Chai
-artistBio: Hua Chai entered the Design Media Arts undergraduate program with a background in Photoshop animation. They are currently exploring print and interactive media design and are primarily interested in experimental modes of visual narrative featuring Southeast Asian, LGBTQ+ voices.
 artistLinks:
  -
   type: website
   url: https://huazzers.wixsite.com/artportfolio
+artistBio: Hua Chai entered the Design Media Arts undergraduate program with a background in Photoshop animation. They are currently exploring print and interactive media design and are primarily interested in experimental modes of visual narrative featuring Southeast Asian, LGBTQ+ voices.
 
 ---
 
