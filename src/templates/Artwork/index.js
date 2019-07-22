@@ -13,8 +13,6 @@ import {
 
 export default function Artwork({ data }) {
   const { markdownRemark: post } = data;
-  console.log(post.frontmatter);
-
 
   return (
     <Layout path={post.frontmatter.path}>
