@@ -9,7 +9,7 @@ artistLinks:
   url: http://www.mikenesbit.com/
  -
   type: instagram
-  name: mikenesbit
+  name: mike.nesbit
 artistBio: "Mike Nesbit is an LA-based fine artist who likes to produce work through community engagement within and outside California. Nesbit’s ability to engage local museums, institutions, design organizations, and media outlets allows his ambitious artworks to become collaborative realities, transforming his art into objects that contain a sense of shared pride and ownership with the communities involved in their manufacturing and maintenance.<br />
 <br />
 With a background in architecture, his multidisciplinary skill-set greatly informs his artwork, allowing Nesbit to bridge the worlds of art and architecture with a focus on technique, repetition, and space. Nesbit has participated in solo and group shows across the country. His long-term installation FLOOD in Omaha, NE, recently won the 2018 IIDA Great Plains Chapter Interior Design Excellence Award, the 2018 ACI Nebraska Award of Outstanding Achievement, and the 2018 national PCI Award for Industry Advancement. Furthermore, Nesbit was selected to be a featured artist for the JW Marriott’s documentary series on Downtown L.A. culture.<br />

@@ -17,6 +17,7 @@ class IssueNav extends Component {
     this.p5Node = React.createRef();
     this.state = {
       isMobile: true,
+      mounted: false,
     };
   }
 
@@ -24,17 +25,19 @@ class IssueNav extends Component {
     const { matches: mobile } = window.matchMedia('(max-width: 600px)');
 
     if (!mobile) {
-      this.setState({ isMobile: mobile });
+      this.setState({ isMobile: mobile, mounted: true });
       this.sketch = createSketch(this.p5Node.current, this.props.nodes);
+    } else {
+      this.setState({ mounted: true });
     }
   }
 
   render() {
-    const { isMobile } = this.state;
+    const { isMobile, mounted } = this.state;
     const className = isMobile ? '' : issueNav;
 
     return <div className={className} ref={this.p5Node}>
-      {isMobile && <IssueNavMobile nodes={this.props.nodes} />}
+      {isMobile && mounted && <IssueNavMobile nodes={this.props.nodes} />}
     </div>
   }
 }

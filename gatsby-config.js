@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `FLAT`,
-    description: `FLAT is a journal for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts. `,
+    description: `FLAT is a journal for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts.`,
     author: `FLAT`,
     currentIssue: 1,
   },
@@ -49,7 +49,18 @@ module.exports = {
         ],
       },
     },
-
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Flat Journal`,
+        short_name: `Flat Journal`,
+        description: `FLAT is a journal for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts.`,
+        start_url: `/`,
+        background_color: `#F5F5F5`,
+        theme_color: `#8784A8`,
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
+      },
+    },
 
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
