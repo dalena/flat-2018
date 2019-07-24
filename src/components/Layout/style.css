@@ -82,6 +82,10 @@ h5 {
   max-width: 1000px;
 }
 
+.headWrapIndex {
+  padding: 20px 0px;
+}
+
 .page-cont {
   display: flex;
   padding: 20px 60px;
@@ -113,7 +117,7 @@ main {
   grid-row: 1 / 2;
   margin-bottom: 20px;
   font-family: 'Mukta',
-  sans-serif;
+    sans-serif;
 }
 
 .article-meta h3 {
@@ -220,11 +224,6 @@ main {
   margin-bottom: 50px;
 }
 
-.article .btn {
-  /* grid-column: 3 / 6;
-  grid-row: 3; */
-}
-
 .article button {
   -webkit-transition-duration: 0.5s;
   transition-duration: 0.5s;
@@ -232,7 +231,7 @@ main {
   transition-timing-function: linear;
   -webkit-transition-delay: 0.05s;
   transition-delay: 0.05s;
-  margin-top: 30px;
+  /* margin-top: 30px; */
   padding: 20px 10px;
   width: 100%;
   min-height: 4vh;
@@ -259,8 +258,11 @@ footer {
 
 .footerArt {
   position: fixed;
-  bottom: 1vh;
+  bottom: 2vh;
   left: 3vw;
+}
+.footerArt h1{
+  font-size: 32px;
 }
 
 .footerArt a {
@@ -291,7 +293,7 @@ main {
 }
 
 .pre-wrapper {
-  margin: 20px 0 0 0;
+  padding: 0px 30px;
 }
 
 .article-text {
@@ -346,8 +348,8 @@ main {
   padding: 0px;
 }
 
-
 @media only screen and (max-width: 600px) {
+
   #wrapper,
   .headWrapIndex {
     padding: 0 5vw;

@@ -8,7 +8,8 @@ import Bio from '../../components/Bio';
 import {
   artLeft,
   artRight,
-  artText
+  artText,
+  artCont
 } from './style.module.css';
 
 export default function Artwork({ data }) {
@@ -22,21 +23,21 @@ export default function Artwork({ data }) {
           <h3>{post.frontmatter.artist}</h3>
           <h2>{post.frontmatter.title}</h2>
         </div>
-        <div className={artLeft} >
-          <img src={post.frontmatter.image.publicURL} alt=""></img>
-        </div>
-        <div className={artRight}>
-          <div
-            className={artText}
-            dangerouslySetInnerHTML={{ __html: post.html }}
-          />
-          <p>
-            <a target="none" href={post.frontmatter.btn}>
-              <button>
-                {post.frontmatter.btntxt}
-              </button>
-            </a>
-          </p>
+        <div className={artCont} >
+          <div className={artLeft} >
+            <img src={post.frontmatter.image.publicURL} alt=""></img>
+          </div>
+          <div className={artRight}>
+            <div
+              className={artText}
+              dangerouslySetInnerHTML={{ __html: post.html }}
+            />
+              <a target="none" href={post.frontmatter.btn}>
+                <button>
+                  {post.frontmatter.btntxt}
+                </button>
+              </a>
+          </div>
         </div>
         <div className="article-footer">
           <Bio
