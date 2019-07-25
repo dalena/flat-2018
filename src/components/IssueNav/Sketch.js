@@ -37,7 +37,6 @@ const Sketch = (sketch) => {
 
 	sketch.draw = () => {
 		sketch.background(245, 245, 248);
-
 		sketch.stroke(138);
 		sketch.noFill();
 

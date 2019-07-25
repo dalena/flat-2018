@@ -15,6 +15,7 @@ class IssueNav extends Component {
   constructor() {
     super();
     this.p5Node = React.createRef();
+    this.sketch = false;
     this.state = {
       isMobile: true,
       mounted: false,
@@ -26,9 +27,17 @@ class IssueNav extends Component {
 
     if (!mobile) {
       this.setState({ isMobile: mobile, mounted: true });
-      this.sketch = createSketch(this.p5Node.current, this.props.nodes);
+      if (this.sketch === false) {
+        this.sketch = createSketch(this.p5Node.current, this.props.nodes);
+      }
     } else {
       this.setState({ mounted: true });
+    }
+  }
+
+  componentWillUnmount() {
+    if (this.state.mounted && this.sketch) {
+      this.sketch.remove();
     }
   }
 

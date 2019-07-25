@@ -8,8 +8,11 @@ authorLinks:
   type: website
   url: https://agnesecebere.com
  -
-  type: instagram
+  type: twitter
   name: tacit_swarming
+ -
+  type: instagram
+  name: acebere_studio
 authorBio: Agnese Cebere is an artist, dancer, and filmmaker based in Eugene, Oregon.  Originally from Latvia, Agnese grew up in Sweden, and earned her BA in Intermedia Art at Edinburgh College of Art, Scotland. She recently finished her MA in Media Studies at The New School, New York, where her research has focused on embodiment and technology as they converge in screendance. Her filmmaking experience lies in live performance capture and editing, as well as experimental video art.
 ---
 
