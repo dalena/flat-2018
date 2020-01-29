@@ -8,6 +8,8 @@ type: "page"
 
 FLAT is a platform for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is open to submissions of writing, images, video, interactive works, and almost any possible form of web-based content from writers, artists, and thinkers around the world. Please see open calls for specific information about what themes and media we are accepting at this time. Contributors to FLAT include theorists, technologists, and artists from the UCLA community, the greater Los Angeles area, and beyond. At this time, FLAT publishes content online in both a themed issue and on a rolling basis and prints one physical publication a year. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts.
 
+FLAT is made possible through the support of the <a href="http://dma.ucla.edu" rel="noopener noreferrer" target="_blank">UCLA Department of Design Media Arts</a> and the <a href="http://software.arts.ucla.edu" rel="noopener noreferrer" target="_blank">UCLA Arts Conditional Studio</a>.
+
 <div style="margin-top: 50px">
 <a href="https://twitter.com/flat_journal" rel="noopener noreferrer" target="_blank">Twitter</a><br />
 <a href="https://www.instagram.com/flatjournal/" rel="noopener noreferrer" target="_blank">Instagram</a><br />
