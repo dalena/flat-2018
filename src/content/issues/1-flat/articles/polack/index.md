@@ -1,6 +1,6 @@
 ---
 title: "Flat Vocality: Computation and the Violence of Representation in Art"
-path: "/flat/polack"
+path: "/polack"
 type: "article"
 author: "Peter Polack"
 authorBio: Peter Polack is a PhD student in the Department of Information Studies at UCLA, where he studies the implications of computation for politics of representation and autonomy. His research concerns the development of experimental media artifacts that inform or overturn how we understand computational paradigms of governance, whether this understanding is informed by direct experience, through artworks, or through theoretical argumentation. He holds an M.S. in Computer Science and a B.S. in Computational Media from Georgia Tech.

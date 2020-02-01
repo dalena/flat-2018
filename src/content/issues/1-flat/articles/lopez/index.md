@@ -1,6 +1,6 @@
 ---
 title: "Spatial Disintegration"
-path: "/flat/lopez"
+path: "/lopez"
 type: "article"
 artist: "Karina Lopez"
 artistLinks:

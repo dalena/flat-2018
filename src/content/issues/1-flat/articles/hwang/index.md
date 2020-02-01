@@ -1,6 +1,6 @@
 ---
 title: "Super-ephemerality: Street Art (1) in Digital Space"
-path: "/flat/hwang"
+path: "/hwang"
 type: "article"
 author: "Sarah Hwang"
 authorLinks:

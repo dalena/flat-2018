@@ -1,6 +1,6 @@
 ---
 title: "Flat / Surface"
-path: "/flat/cebere"
+path: "/cebere"
 type: "article"
 author: "Agnese Cebere"
 authorLinks:

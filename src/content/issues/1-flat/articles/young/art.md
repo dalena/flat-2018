@@ -1,6 +1,6 @@
 ---
 title: "Room"
-path: "/flat/young/room"
+path: "/young/room"
 type: "iframe"
 author: "Erica Young"
 ---

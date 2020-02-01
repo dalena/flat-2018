@@ -1,6 +1,6 @@
 ---
 title: "THE HUSBAND, THE MAN"
-path: "/flat/blakley-cartwright"
+path: "/blakley-cartwright"
 type: "article"
 author: "Sarah Blakley-Cartwright"
 authorBio: Sarah Blakley-Cartwright is a New York Times bestselling author, Associate Editor of A Public Space, and Publishing Director of the Chicago Review of Books.

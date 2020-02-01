@@ -55,7 +55,11 @@ const IssueNavMobile = ({nodes}) => {
   return (
     <ul className={issueNavMobile}>
       {
-        nodes.map((val, i) => <li key={val.author} className={mobileNavColors[`navColor${i}`]}><a href={val.path}>{val.author.toUpperCase()}</a></li>)
+        nodes.map((val, i) => (
+          <li key={val.author} className={mobileNavColors[`navColor${i}`]}>
+            <a href={`/flat${val.path}`}>{val.author.toUpperCase()}</a></li>
+          )
+        )
       }
     </ul>
   );
