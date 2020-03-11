@@ -1,6 +1,6 @@
 ---
 title: "Disrupting Flatness through Multi-layered Performances of Discordance: “Green | House”"
-path: /choi
+path: /flat/choi
 type: article
 artist: Minkyung Choi
 artistLinks:

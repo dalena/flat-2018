@@ -1,6 +1,6 @@
 ---
 title: "Call for Proposals"
-path: "/cfp"
+path: "/flat/cfp"
 type: "page"
 ---
 

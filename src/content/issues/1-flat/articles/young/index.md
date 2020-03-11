@@ -1,6 +1,6 @@
 ---
 title: "Room"
-path: "/young"
+path: "/flat/young"
 type: "artwork"
 image: "imgYoung1.gif"
 btn: "/flat/young/room"

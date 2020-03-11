@@ -1,6 +1,6 @@
 ---
 title: "Phlatness"
-path: "/nesbit"
+path: "/flat/nesbit"
 type: "article"
 artist: "Mike Nesbit"
 artistLinks:

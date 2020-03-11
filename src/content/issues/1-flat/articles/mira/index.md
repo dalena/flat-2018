@@ -1,6 +1,6 @@
 ---
 title: "Decision-Making, Delegated, Art-Making: AI and Art, A.D. 2019"
-path: "/mira-c"
+path: "/flat/mira-c"
 type: "article"
 author: "Mira C"
 authorBio: Mira C is a transdisciplinary something based in San Francisco. They write and draw about rumors, speculations, drama, and hopes surrounding a candidate of disruptive innovation.

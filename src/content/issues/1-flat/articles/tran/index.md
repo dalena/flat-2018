@@ -1,6 +1,6 @@
 ---
 title: "The Delay"
-path: "/tran"
+path: "/flat/tran"
 type: "artwork"
 image: "artTran1.png"
 btn: "/flat/tran/the-delay/"

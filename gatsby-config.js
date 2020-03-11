@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/flat`,
+  // pathPrefix: `/flat`,
   siteMetadata: {
     title: `FLAT`,
     description: `FLAT is a journal for theoretical and critical texts, interviews, reviews, projects, and experiments that engage with contemporary conversations surrounding emerging media in the arts. FLAT is designed, curated, and produced by faculty, graduate students, and undergraduates from UCLA’s department of Design Media Arts.`,
@@ -14,6 +14,13 @@ module.exports = {
       options: {
         name: `issueContent`,
         path: `${__dirname}/src/content/issues/1-flat/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `issueContent`,
+        path: `${__dirname}/src/content/issues/2-halt/`,
       },
     },
     {

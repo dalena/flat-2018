@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Mukta:400,700&display=swap');
 
 @import url('../../content/issues/1-flat/style.css');
+@import url('../../content/issues/2-halt/style.css');
 
 html {
   background-color: rgb(245, 245, 248) !important;
@@ -194,12 +195,17 @@ main {
   /* display: flex; */
 }
 
-.article-text span.cite {
+.article-text .cite,
+.article-text .cite p {
   font-size: 12px;
   line-height: 1.5;
   padding: 0px;
   margin: 0px;
   color: #000;
+}
+
+.article-text .cite p {
+  margin-bottom: 1em;
 }
 
 .article-text span.bio1 {

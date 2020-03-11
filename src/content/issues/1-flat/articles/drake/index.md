@@ -1,6 +1,6 @@
 ---
 title: "Interview: David Valentine on the Possibility of Human Settlement in Space"
-path: "/drake"
+path: "/flat/drake"
 type: "article"
 author: "Sara Drake"
 authorBio: Sara Drake is an artist and animator living in Los Angeles. She received her BFA from the School of the Art Institute of Chicago and her MFA from the Design Media Arts Program at UCLA.

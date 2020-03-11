@@ -16,6 +16,10 @@
   padding: 20px;
 }
 
+.article-path--flat-mendelsohn {
+  padding: 0;
+}
+
 .article-path--flat-mendelsohn #wrapper {
   background-image: url(./articles/mendelsohn/artwork/combined.jpg);
   background-size: cover;

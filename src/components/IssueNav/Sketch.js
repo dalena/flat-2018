@@ -29,7 +29,7 @@ const Sketch = (sketch) => {
 				centerY,
 				MIN_RADIUS + (radiusStep * (data.length - i - 1)),
 				val.author.toUpperCase(),
-				`/flat${val.path}`,
+				val.path,
 				sketch.lerpColor(sketch.color(26, 22, 82), sketch.color(217, 216, 231), (data.length - i) / data.length),
 			));
 		});
