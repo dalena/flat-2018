@@ -1,6 +1,6 @@
 ---
 title: "The Delay"
-path: "/tran/the-delay"
+path: "/flat/tran/the-delay"
 type: "iframe"
 author: "Dalena Tran"
 ---
