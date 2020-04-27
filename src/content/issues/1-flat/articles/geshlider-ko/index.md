@@ -48,6 +48,12 @@ I delighted in reading your letter today. As my associate, you do recall that I 
 In pursuit of our mutual health, I decided that not responding is an act of love. What say you of that, my dear associate?
 
 
+<div style="max-width: 637px; margin: 100px auto 0;">
+    <img src="artwork/image2.png" alt="A hat with the text 'Words tend to be inadequate' embroidered on it" />
+</div>
+
+##### Words tend to be inadequate.
+
 <div style="max-width: 637px; margin: 100px auto 20px;">
     <img src="artwork/image4.png" alt="A mouth with someone using a cheeto as lipstick" />
 </div>

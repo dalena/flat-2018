@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { StaticQuery, graphql } from "gatsby";
+import Gradient from '@zsoltc/gradient-generator/src/gradient';
 
 import { createSketch } from './Sketch';
 
@@ -8,12 +9,12 @@ import style from './style.module.css';
 const {
   issueNav,
   issueNavMobile,
-  ...mobileNavColors
 } = style;
 
 class IssueNav extends Component {
   constructor() {
     super();
+
     this.p5Node = React.createRef();
     this.sketch = false;
     this.state = {
@@ -52,11 +53,13 @@ class IssueNav extends Component {
 }
 
 const IssueNavMobile = ({nodes}) => {
+  const gradient = new Gradient(['#d9d8e8', '#28225E']);
+  const l = nodes.length;
   return (
     <ul className={issueNavMobile}>
       {
         nodes.map((val, i) => (
-          <li key={val.author} className={mobileNavColors[`navColor${i}`]}>
+          <li key={val.author} style={{ backgroundColor: gradient.getColorHexAt(i / l) }}>
             <a href={val.path}>{val.author.toUpperCase()}</a></li>
           )
         )

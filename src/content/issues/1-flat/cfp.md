@@ -6,7 +6,7 @@ type: "page"
 
 # Call for Proposals
 
-### [Read the Call for Papers for our Issue #0.1 “HALT”](https://flatjournal.com/cfp)
+### [Read the Call for Papers for our Issue #0.1 “HALT”](/cfp)
 
 
 ### Issue # 1 : FLAT
