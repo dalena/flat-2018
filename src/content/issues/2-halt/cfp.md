@@ -8,7 +8,7 @@ type: "page"
 
 <div>
   <div>
-    Currently accepting submissions through <strong>June 15, 2020</strong>. Submit your work <a href="https://airtable.com/shryYmahmx0tJUxri">here</a>.
+    Currently accepting submissions through <strong>August 1st, 2020</strong>. Submit your work <a href="https://airtable.com/shryYmahmx0tJUxri">here</a>.
   </div>
   <div style="margin-top: 50px; max-width: 700px">
     <figure style="max-width: 500px; margin: 0 auto 50px">
@@ -58,7 +58,7 @@ The following types of original, new or previously published works are welcome:
 
 Past publication or experience is not required. Other content types may be accepted. Direct questions to [flat@flatjournal.com](mailto:flat@flatjournal.com) with subject line “JOURNAL INQUIRY”
 
-### Final Submissions Due May 1 should include:
+### Final Submissions Due August 1st should include:
 
 * Abstract (100 - 500 words)
 * Full plain text document (.rtf, .doc, .html, or google doc are preferred)
